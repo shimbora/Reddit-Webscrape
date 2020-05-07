@@ -1,0 +1,587 @@
+title,score,id,url,comms_num,created,body,timestamp
+Pinterest needs to be removed from Google IMO,62111,85atho,https://www.reddit.com/r/google/comments/85atho/pinterest_needs_to_be_removed_from_google_imo/,1547,1521403326.0,"Hi Googlers
+
+I'm searching for a specific piece of technical hardware and I get 100k results from Pinterest. Everyone of these results requires a signup and log into Pinterest to be able to see it.
+
+This is not in accordance with Google's rules, as those are not open results.  Basically Google is working as a Pinterest expansion tool.
+
+Pinterest needs to be removed from Google IMO. They clutter the images results and do not allow users to obtain what they search for.
+
+Just 2 cents about that. Thanks.",2018-03-18 15:02:06
+Join the fight for net neutrality! Net neutrality will prevent ISPs from charging for [rest of title loading...],38212,7eo3rm,https://www.battleforthenet.com/,105,1511352947.0,,2017-11-22 06:15:47
+The difference between Google Maps and Waze,25409,7uzd8m,https://i.imgur.com/Qe8rbUf.jpg,797,1517694189.0,,2018-02-03 15:43:09
+"Amazing, 10/10",17229,6jyo7a,https://i.redd.it/j63ysbggsb6z.jpg,816,1498657978.0,,2017-06-28 08:52:58
+Google Pixel 3a ad hammers iPhone X on price and night sight.,15335,bnbyv1,https://i.redd.it/qnhuvvwm1lx21.jpg,748,1557609518.0,,2019-05-11 16:18:38
+My wife recently turned 30. She did not appreciate Google Assistant's joke today.,15273,6t49by,http://i.imgur.com/ifAGzCM.png,203,1502515217.0,,2017-08-12 00:20:17
+This came in today... Won a contest at my job!,14421,87n4pv,https://i.redd.it/aukecfyl2eo01.jpg,492,1522221407.0,,2018-03-28 02:16:47
+"New Google Docs phishing scam, almost undetectable",12454,692cr4,https://www.reddit.com/r/google/comments/692cr4/new_google_docs_phishing_scam_almost_undetectable/,1090,1493866443.0,"#The scam should now be resolved, good job on the speedy resolution Google!#
+
+## Official statement:
+
+> We realize people are concerned about their Google accounts, and we’re now able to give a fuller explanation after further investigation. We have taken action to protect users against an email spam campaign impersonating Google Docs, which affected fewer than 0.1 percent of Gmail users. We protected users from this attack through a combination of automatic and manual actions, including removing the fake pages and applications, and pushing updates through Safe Browsing, Gmail, and other anti-abuse systems. We were able to stop the campaign within approximately one hour. While contact information was accessed and used by the campaign, our investigations show that no other data was exposed. There’s no further action users need to take regarding this event; users who want to review third party apps connected to their account can visit [Google Security Checkup](https://myaccount.google.com/secureaccount). *([source](https://thenextweb.com/security/2017/05/03/massive-google-docs-phishing-attack-currently-sweeping-internet/))*
+
+---
+
+I received a phishing email today, and very nearly fell for it. I'll go through the steps here:
+
+1. I [received an email](https://i.imgur.com/3NRq1yD.png) that a Google Doc had been shared with me. Looked reasonably legit, and I recognized the sender.
+2. The [button's URL](https://i.imgur.com/r56QsM9.png) was somewhat suspicious, but still reasonably Google based.
+3. I then got taken to [a *real* Google account selection screen](https://i.imgur.com/HNt0yMa.png). It already knew about my 4 accounts, so it's really signing me into Google.
+4. Upon selecting an account, no password was needed, I just needed to [allow ""Google Docs"" to access my account](https://i.imgur.com/JGvHa4H.png).
+5. If I click ""Google Docs"", it shows me it's *actually* published by [a random gmail account](https://i.imgur.com/tf02z1R.png), so that user would receive full access to my emails (and could presumably therefore perform password resets etc).
+6. Shortly afterwards I received [a followup real email from my contact] (https://i.imgur.com/DGSyy1L.png), informing me: ""Delete this is a spam email that spreads to your contacts.""
+
+To summarise, this spam email:
+
+* Uses the existing Google login system
+* Uses the name ""Google Docs""
+* Is only detectable as fake if you happen to click ""Google Docs"" whilst granting permission
+* Replicates itself by sending itself to all your contacts
+* Bypasses any 2 factor authentication / login alerts
+* Will send scam emails to everyone you have ever emailed
+
+Google are [investigating this](https://www.reddit.com/r/google/comments/692cr4/new_google_docs_phishing_scam_almost_undetectable/dh36pv2/) as we speak.
+
+---
+
+#FAQ
+
+## How do I know if I've been affected?
+
+If you clicked ""Allow"", you've been hit. If you didn't click the link, closed the tab first, or pressed deny, you're okay! The app may have removed itself from your account, and may have deleted the sent emails.
+
+## What do I do if I've been affected?
+
+1. [Revoke access to ""Google Docs""](https://myaccount.google.com/permissions) immediately. It may now have a name ending in `apps.googleusercontent.com` since Google removed it. The real one doesn't need access.
+2. Try and see if your account has sent any spam emails, and send a followup email linking to this post / with your own advice if so.
+3. Inform whoever sent you the email about the spam emails, and that their account is compromised.
+
+## What are the effects?
+
+All emails have been accessed, and the spam forwarded to all of your contacts. This means they could have all been extracted for reading later. Additionally, password reset emails could have been sent for other services using the infected email address.
+
+[This](https://pastebin.com/EKdKamFq) *may* be the payload, so it *may* just self replicate, and not do anything nastier. This is not at all confirmed, however, so assume the worst until an official Google statement.
+
+## I'm a G Suite sysadmin, what do I do?
+
+*The following steps [by/u/banden](https://www.reddit.com/r/google/comments/692cr4/new_google_docs_phishing_scam_almost_undetectable/dh37uz3/) may help, but I can't verify they'll prevent it.*
+
+1. Block messages containing the hhhhhhhhhhhhhhhh@mailinator.com address from inbound and outbound mail gateway/spamav service.
+
+2. Locate Accounts in Google Admin console and revoke access to Google Doc app. It may now have a name ending in `apps.googleusercontent.com` since Google removed it. 
+",2017-05-03 21:54:03
+Google just saved my ass from looking like an ass,11790,6ywmzy,https://i.redd.it/3rca8gpgdpkz.png,213,1504924321.0,,2017-09-08 21:32:01
+My Google Wallet card still works!,10415,7kltts,https://imgur.com/wfolXhj,244,1513639236.0,,2017-12-18 17:20:36
+"Google assistant is trying, but it's hard.",9861,575qel,http://imgur.com/8Be1Y7J,165,1476326550.0,,2016-10-12 21:42:30
+Google Chrome to let users permanently mute annoying video ads that play sound automatically,7751,6wiybr,http://www.independent.co.uk/life-style/gadgets-and-tech/news/google-chrome-canary-mute-automatic-sound-video-ads-background-tabs-features-a7916241.html,235,1503950739.0,,2017-08-28 15:05:39
+All of my Google messaging apps in one convenient folder!,7291,53za04,https://i.redd.it/rfj64ufpc3nx.png,398,1474584222.0,,2016-09-22 17:43:42
+Google Assistant apparently doesn't like being called other AI's names,7130,8v7qn4,https://i.redd.it/1nri4d3sr9711.jpg,113,1530450446.0,,2018-07-01 08:07:26
+Assistant has the cutest New Years resolution,7058,5ld0ok,http://imgur.com/N2HYeCh,96,1483265353.0,,2017-01-01 04:09:13
+Every time,6753,b6g1sc,https://i.redd.it/nyo8lpk3hto21.jpg,36,1553788937.0,,2019-03-28 11:02:17
+Spread this,6228,c08i0n,https://i.redd.it/xl303ihdp5431.jpg,251,1560474723.0,,2019-06-13 20:12:03
+Found this while googling puns,6127,6vivue,http://i.imgur.com/j0xtfTz.jpg,39,1503523025.0,,2017-08-23 16:17:05
+Shots fired at apple,6130,55ueh6,https://i.redd.it/42zdzr8vkhpx.png,584,1475628159.0,,2016-10-04 19:42:39
+"Google Map, please stop using washed out colors.",5618,359sso,http://imgur.com/EaoyVtl,239,1431102972.0,,2015-05-08 11:36:12
+Comcast tries attack ad against Google Fiber. It predictably backfires.,5612,3r1lfw,http://i.imgur.com/SVRbKOd.jpg,384,1446376989.0,,2015-11-01 05:23:09
+Pixel 3 XL looks amazing,5037,9mynjr,https://i.redd.it/vrhqlxg3hcr11.jpg,315,1539200200.0,,2018-10-10 14:36:40
+Goodbye Old Friend,5010,b5hbjq,https://i.redd.it/peaji27zaco21.jpg,377,1553581101.0,,2019-03-26 01:18:21
+Here's what it looks like when there's no more Chromecasts in stock,4983,76ee15,https://i.redd.it/lft8x9lequrz.jpg,28,1508040145.0,,2017-10-14 23:02:25
+Bad deal,4797,dq7noo,https://i.redd.it/wulr6kju34w31.jpg,87,1572659127.0,,2019-11-01 20:45:27
+Shots fired,4712,b3b0vo,https://i.redd.it/ad9nv6q3i9n21.jpg,240,1553111289.0,,2019-03-20 14:48:09
+Had a chuckle the first time I opened this folder.,4543,7yv2po,https://i.imgur.com/XrrzXIO.jpg,78,1519153304.0,,2018-02-20 13:01:44
+Ok then,4482,8cn674,https://i.redd.it/sn4hdguna9s01.jpg,86,1523910860.0,,2018-04-16 15:34:20
+This should be illegal. Hey Google can you please change the Google play policies to stop this for happening. Devs should tell users exactly why users have to download a 60 MB update. Like what is in this 60 MB update.,4432,8yhoeb,https://i.redd.it/2nb2hakzun911.png,307,1531492716.0,,2018-07-13 09:38:36
+"Well, thank you Google",4202,79aiqs,https://i.imgur.com/lOWVAjN.jpg,92,1509231425.0,,2017-10-28 17:57:05
+Hmmm.,4127,7oyjfj,https://i.redd.it/yiffaza1ku801.png,101,1515447404.0,,2018-01-08 15:36:44
+Got curved by Google assistant.,4096,8q9h6t,https://i.redd.it/ionqidknhd311.png,124,1528752076.0,,2018-06-11 16:21:16
+.,3963,dk6dh0,https://i.redd.it/8ywdyfjy2jt31.jpg,81,1571532883.0,,2019-10-19 19:54:43
+I admire Google's design consistency. It's like their teams actually talk to each other,3921,dmvcx9,https://i.redd.it/42dmis2uwnu31.png,171,1572027207.0,,2019-10-25 13:13:27
+I knew it all along,3903,d6eq0x,https://i.redd.it/f53c7m548kn31.jpg,57,1568931636.0,,2019-09-19 17:20:36
+I chuckled..,3843,7fatm6,https://i.redd.it/wyobf1k000001.png,30,1511590679.0,,2017-11-25 00:17:59
+"So Google support must have seen the recent thread about ads in YouTube Red, because I got a suddenly got another message from them",3830,7121cs,https://i.imgur.com/C3zA6TC.png,108,1505845384.0,,2017-09-19 13:23:04
+Almost enough RAM for Chrome to run smoothly,3805,9k7bo6,https://i.redd.it/uufangjncep11.jpg,238,1538351170.0,,2018-09-30 18:46:10
+Come on Google...,3793,7q9mba,https://imgur.com/0MvrzY3,123,1515931029.0,,2018-01-14 05:57:09
+Relateable,3699,a3s856,https://i.redd.it/mrlxrobmxo221.jpg,154,1544158707.0,,2018-12-06 22:58:27
+Google doesn't follow its own rules (x-post from /r/MaterialDesign),3645,77djme,https://i.redd.it/0qvn4glokrsz.png,122,1508437806.0,,2017-10-19 13:30:06
+I call this “having to buy an iPad for university after only ever owning Android devices”,3637,bi97nq,https://i.redd.it/kjxm49hxuyu21.jpg,353,1556469212.0,,2019-04-28 11:33:32
+The family of Google messaging apps keeps growing! 😅,3635,812ry2,https://i.redd.it/1rpdwgiu23j01.jpg,338,1519909065.0,,2018-03-01 06:57:45
+Siri & Google Assistant = Apples and oranges?,3548,5lhelg,http://i.imgur.com/qpY3kuD.png,37,1483336281.0,,2017-01-01 23:51:21
+consider it,3553,ak4rcj,https://i.redd.it/hmo5usno2oc21.jpg,105,1548563709.0,,2019-01-26 22:35:09
+Google needs to do something about this.,3535,afvkty,https://i.redd.it/v0evk05qzda21.jpg,174,1547499619.0,,2019-01-14 15:00:19
+Google lets you rate oceans,3503,7u1hzp,https://i.redd.it/vfn17900x7d01.jpg,142,1517352638.0,,2018-01-30 16:50:38
+Not quite,3500,9df51r,https://i.imgur.com/EUQ7TTF.jpg,104,1536240101.0,,2018-09-06 08:21:41
+Google's front page right now,3389,9ulnxx,https://i.imgur.com/XXlLwt0.png,170,1541510693.0,,2018-11-06 07:24:53
+Dark mode Chrome is coming,3376,amy6yy,https://i.imgur.com/kxDvWse.png,218,1549284670.0,,2019-02-04 06:51:10
+So Google listened,3358,69barj,https://i.redd.it/r70d7zuankvy.png,145,1493970885.0,,2017-05-05 02:54:45
+Soon :),3326,d5mom1,https://i.redd.it/oepm8hwhr7n31.jpg,237,1568780763.0,,2019-09-17 23:26:03
+Nice,3323,cnjotd,https://i.imgur.com/Sjx7Fix.jpg,112,1565287938.0,,2019-08-08 13:12:18
+Google now blocking websites that show fake download buttons,3304,444yjb,http://arstechnica.co.uk/information-technology/2016/02/google-now-blocking-websites-that-show-fake-download-buttons/,107,1454615794.0,,2016-02-04 13:56:34
+Google I/O 2018 be like :,3253,8ie63b,https://i.imgur.com/gsLKSB4.jpg,62,1525980668.0,,2018-05-10 14:31:08
+State of this sub,3206,ac8zx0,https://i.redd.it/g3lve02zb9821.jpg,78,1546571518.0,,2019-01-03 21:11:58
+Because snitches get stitches.,3189,8peqec,https://i.redd.it/cy2cpozypn211.jpg,52,1528440094.0,,2018-06-08 01:41:34
+Everytime,3152,ahpfs9,https://i.redd.it/so0px8j9ofb21.jpg,40,1547955827.0,,2019-01-19 21:43:47
+Outstanding move,3093,d2s7w5,https://i.redd.it/f8xwtknjkzl31.jpg,77,1568245723.0,,2019-09-11 18:48:43
+"Alright Google Assistant, ya smartass.",3086,6cl2pq,http://imgur.com/tDMEHXh,33,1495455104.0,,2017-05-22 07:11:44
+HAHAHAHA oh wow!,3085,81cbsd,https://i.redd.it/929e93fsnaj01.png,216,1520000876.0,,2018-03-02 08:27:56
+It's the Google Chrome T-rex' Birthday,3070,9cyi3f,https://i.redd.it/lizpmx8to9k11.png,58,1536115500.0,,2018-09-04 21:45:00
+The Assistant is an introvert.,3052,6f1fqb,http://i.imgur.com/XRFEu2Y.jpg,30,1496528738.0,,2017-06-03 17:25:38
+"Google, if you make an app compatible with dark mode (in this case YouTube), you gotta theme it all, including this ""boot screen"". I hate when I open it later at night and it is all this LIGHT.",3043,aqtcq5,https://i.imgur.com/d7QOevJ.png,118,1550237697.0,,2019-02-15 07:34:57
+Google's object detection api may be a little biased...,3031,9u5564,https://i.redd.it/8asmjs22mcw11.png,78,1541381095.0,,2018-11-04 19:24:55
+Leaked pixel 4 with completely bezel-less screen,3014,dco6wd,https://i.redd.it/z98w1l8biaq31.jpg,190,1570121556.0,,2019-10-03 11:52:36
+let's do this,2974,ayo3lq,https://i.redd.it/rcpy0mc0mqk21.jpg,66,1552063888.0,,2019-03-08 10:51:28
+Technically correct,2962,bgj5nz,https://i.imgur.com/bk4juVv.jpg,32,1556069338.0,,2019-04-23 20:28:58
+I want to get off this ride...,2955,4k1mo6,https://i.imgur.com/iX4Tq8Y.png,422,1463678058.0,,2016-05-19 12:14:18
+I was about to send my job application without attaching my CV. Gmail saved me!,2929,bgsjdn,https://i.redd.it/69za0p99l6u21.jpg,101,1556127013.0,,2019-04-24 12:30:13
+"The Google Home in the bedroom of our Airbnb didn't respond to ""OK Google""",2909,8pxlz0,https://i.redd.it/p12nkhhiv2311.jpg,57,1528623563.0,,2018-06-10 04:39:23
+I got a free case for being a Local Guide,2918,92rrd0,https://i.redd.it/hf38e643ysc11.jpg,171,1532861848.0,,2018-07-29 05:57:28
+Web Browser Market Share (1996-2019),2892,d3o1dc,https://v.redd.it/xcr5dy95ncm31,320,1568403990.0,,2019-09-13 14:46:30
+It be like that,2884,amnywp,https://i.redd.it/9wevrusdibe21.jpg,40,1549212964.0,,2019-02-03 10:56:04
+Had to share this,2853,9wozdn,https://i.redd.it/m1t7gpv6r1y11.jpg,42,1542143970.0,,2018-11-13 15:19:30
+Hello there,2858,box1v1,https://i.imgur.com/kKNOH6x.jpg,76,1557950429.0,,2019-05-15 15:00:29
+I made dis!,2841,9azi85,https://i.redd.it/3f6qa35gjui11.jpg,76,1535496229.0,,2018-08-28 17:43:49
+Well this is uncomfortable...,2842,9e03uo,https://i.redd.it/4nybshv4uwk11.jpg,77,1536395722.0,,2018-09-08 03:35:22
+AI,2829,d44rfj,https://i.redd.it/7n30zngc3km31.png,14,1568494187.0,,2019-09-14 15:49:47
+Google’s 10 year challenge in China,2813,aj2mta,https://i.redd.it/g4wqsq2gs7c21.jpg,73,1548296227.0,,2019-01-23 20:17:07
+When you say Ok Boomer...,2802,e2xnze,https://i.redd.it/76rntzetcf141.png,61,1574974555.0,,2019-11-28 14:55:55
+Win win for Google,2793,bss0qd,https://i.redd.it/s879retgbb031.jpg,116,1558799295.0,,2019-05-25 10:48:15
+If you open 100 tabs in google you get a smiley face.,2787,6fkyyn,https://i.redd.it/nhh2jois702z.png,144,1496774461.0,,2017-06-06 13:41:01
+"""Okay Google, play Christmas Music"" Wreath Easter Egg",2771,5k6mn7,http://imgur.com/HdFreTL,71,1482665370.0,,2016-12-25 05:29:30
+It do be like that,2756,cultbn,https://i.redd.it/ako5bjmcaai31.jpg,30,1566632078.0,,2019-08-24 02:34:38
+Sometimes Google's AI just blows me away,2749,8twj96,https://i.redd.it/0vavfl6cf9611.png,101,1530010422.0,,2018-06-26 05:53:42
+Google London has windows full of post it note art,2704,dtu74t,https://i.imgur.com/KQrKRFf.jpg,48,1573323083.0,,2019-11-09 12:11:23
+Been making pizza wrong my entire life.,2697,8nktli,https://i.redd.it/tuvbqp6si8111.jpg,58,1527820224.0,,2018-05-31 21:30:24
+The yellow guy turns into an ufo if you dangle him over area 51,2693,az1qty,https://i.redd.it/wq1q0wqla2l21.jpg,61,1552152322.0,,2019-03-09 11:25:22
+"Google Fiber: no fees, no taxes, no bullsh*t",2667,31b3j9,http://i.imgur.com/uRuK1Rk.jpg,212,1428097191.0,,2015-04-03 16:39:51
+"Thanks, Google Translate",2670,8mi16z,https://i.redd.it/bfs9vgc6ad011.jpg,70,1527459660.0,,2018-05-27 17:21:00
+Bing is so cute.,2659,a0jmwm,https://i.redd.it/xsp2rmxdno021.jpg,151,1543270166.0,,2018-11-26 16:09:26
+happy 30th,2659,b08x8c,https://i.redd.it/cfvx9de0gpl21.jpg,51,1552432600.0,,2019-03-12 18:16:40
+Incognito Mode,2643,dz88cv,https://i.redd.it/g8pqiqvehvz31.jpg,21,1574312639.0,,2019-11-20 23:03:59
+hope memes are allowed,2619,dd6zfk,https://i.redd.it/iktuapbcuiq31.png,48,1570222506.0,,2019-10-04 15:55:06
+😒,2597,drxgtp,https://i.redd.it/tlnxohgeqrw31.jpg,140,1572979322.0,,2019-11-05 12:42:02
+Google: Please let us easily create a calendar event from search results!,2592,8czcj0,https://i.redd.it/ybp5dn91uis01.png,49,1524022506.0,,2018-04-17 22:35:06
+i dont even know who you are,2571,c0jlql,https://i.redd.it/bk8feoz7hb431.jpg,69,1560544661.0,,2019-06-14 15:37:41
+woah my dudes,2568,cgt7qq,https://i.redd.it/xvkcrskcb2c31.png,177,1563920475.0,,2019-07-23 17:21:15
+Without a doubt the strangest Opinion Rewards survey I've ever gotten,2563,bkgpjp,https://i.redd.it/8yb2clauy3w21.png,213,1556966909.0,,2019-05-04 05:48:29
+"Google, why are adverts like this still allowed?",2559,4eb504,http://imgur.com/fxbl6Zb,76,1460416727.0,,2016-04-11 18:18:47
+When you have 100+ tabs it stops showing how many and just gives you a smiley face.,2559,8ytpjf,https://i.redd.it/hn4b7cfwdx911.jpg,122,1531608038.0,,2018-07-14 17:40:38
+This shouldn't happen,2542,afkhn4,https://v.redd.it/crzn6zpto7a21,161,1547423345.0,,2019-01-13 17:49:05
+We'll!!!,2539,bud6z7,https://i.redd.it/ark7sux6t4131.jpg,100,1559156358.0,,2019-05-29 13:59:18
+I love my aunt who works for Google,2537,cmwsdq,https://i.redd.it/uwyh1aychwe31.jpg,87,1565157396.0,,2019-08-07 00:56:36
+No thanks google I am fine.,2538,cf3n5v,https://i.redd.it/s628d1ke67b31.jpg,86,1563543520.0,,2019-07-19 08:38:40
+"Yeah, that would be pretty funny...",2537,75lx0n,https://i.redd.it/w9vuxzayw3rz.png,127,1507715597.0,,2017-10-11 04:53:17
+Wow,2528,bj89eb,https://i.redd.it/qn3tx9tglev21.png,66,1556685341.0,,2019-04-30 23:35:41
+"Nice try, Google Chrome... Nice try...",2525,7ea4v2,https://imgur.com/bsws6UW,83,1511224964.0,,2017-11-20 18:42:44
+Google Assistant seems friendly!,2521,ckj9co,https://i.redd.it/w4b21709hrd31.png,71,1564660977.0,,2019-08-01 07:02:57
+TIL Google Maps has warnings about violence,2498,e3hdjy,https://i.imgur.com/0gvDzi3.png,116,1575075776.0,,2019-11-29 19:02:56
+Poor Google Dino,2485,9ef3yj,https://i.redd.it/wf9tvp6q87l11.jpg,15,1536545603.0,,2018-09-09 21:13:23
+A Huawei User,2479,brj0m7,https://i.redd.it/1sp6nyz57oz21.jpg,137,1558519393.0,,2019-05-22 05:03:13
+The more you know,2464,aaods8,https://i.redd.it/zx629cqhv9721.png,91,1546142223.0,,2018-12-29 21:57:03
+Honestly this is just unfortunate lmao,2444,cer4jl,https://i.redd.it/2xgb1s3ep1b31.jpg,36,1563477239.0,,2019-07-18 14:13:59
+Meanwhile in Turkey,2425,9e47u1,https://i.redd.it/z7atbzpsj0l11.png,81,1536440921.0,,2018-09-08 16:08:41
+When google has your back,2416,dedu4u,https://i.redd.it/66ju2gozd1r31.jpg,136,1570446972.0,,2019-10-07 06:16:12
+Every damn time,2417,ea6ufu,https://i.redd.it/mo2m8x4iae441.jpg,47,1576286322.0,,2019-12-13 19:18:42
+I can’t unsee it,2417,c3ftld,https://i.redd.it/ta1b49knpr531.jpg,66,1561177017.0,,2019-06-21 23:16:57
+Good point,2409,c7zkne,https://i.redd.it/wrzl2md53r731.png,250,1562041149.0,,2019-07-01 23:19:09
+Every frickin time,2405,d9yqty,https://i.redd.it/zptdjy8qj2p31.jpg,28,1569610848.0,,2019-09-27 14:00:48
+"Thanks Google, you always know exactly what I want",2404,9setky,https://i.redd.it/yfk3mgofm5v11.png,70,1540860574.0,,2018-10-29 19:49:34
+night sight is magic!!,2399,abdvg5,https://i.redd.it/vdp03285yp721.jpg,42,1546336828.0,,2019-01-01 04:00:28
+This still has to be one of the best things google has ever done,2401,9w272v,https://i.redd.it/1lx4mdkztnx11.png,55,1541952733.0,,2018-11-11 10:12:13
+I can't believe you've done this,2393,bzvrh0,https://i.redd.it/thubeo6zbz331.png,125,1560397578.0,,2019-06-12 22:46:18
+Dark mode everything!,2387,e6o8t8,https://i.redd.it/lzart682yv241.jpg,151,1575611259.0,,2019-12-05 23:47:39
+Google celebrates international men's day,2388,9yi9ey,https://i.redd.it/l4elbckjdbz11.jpg,471,1542673634.0,,2018-11-19 18:27:14
+I was so disappointed when I set up Google Fit...,2378,9s2xgr,https://v.redd.it/0kdm6srebxu11,116,1540760051.0,,2018-10-28 15:54:11
+docs.google.com logic,2379,di3qhl,https://i.redd.it/coo6ll2qens31.jpg,94,1571149455.0,,2019-10-15 09:24:15
+Remember this?,2360,cyczll,https://i.redd.it/uea6u7c4oje31.jpg,117,1567388497.0,,2019-09-01 20:41:37
+🤔,2366,aqj1im,https://i.redd.it/t99ahprlchg21.jpg,44,1550174624.0,,2019-02-14 14:03:44
+"Just when you thought google couldn't get any more useful, they add a colour converter",2354,56h8pf,https://i.redd.it/gckgq2auj9qx.png,45,1475966806.0,,2016-10-08 17:46:46
+Lmao true tho with Gboard users,2353,bx1xqy,https://i.redd.it/495a4ckvmg231.jpg,203,1559766200.0,,2019-06-05 15:23:20
+Google Please,2350,68w8md,https://i.redd.it/ltjo0ceet5vy.png,136,1493791383.0,,2017-05-03 01:03:03
+Great doodle today [GIF],2352,5vnkir,https://www.google.com/logos/doodles/2017/seven-earth-size-exoplanets-discovered-6423181526040576.2-hp2x.gif,55,1487846670.0,,2017-02-23 04:44:30
+I'M NOT READY TO LET GO OF INBOX,2341,ajiyiw,https://i.redd.it/h7h19qzwlgc21.png,335,1548402991.0,,2019-01-25 01:56:31
+"Excuse me? Ad knew too much, WTF GOOGLE?!",2325,bvyfae,https://i.redd.it/azgj0oxeny131.png,78,1559517620.0,,2019-06-02 18:20:20
+Found my dad's old google glass. He was developing apps for it.,2334,burx7s,https://i.redd.it/yblbnfnn1c131.jpg,139,1559243953.0,,2019-05-30 14:19:13
+Working as intended (Sister),2319,a96bhy,https://i.redd.it/re5pn3i659621.png,65,1545697526.0,,2018-12-24 18:25:26
+I'll just leave this here,2315,3jqe6b,https://i.imgur.com/UGgbow5.png,234,1441480768.0,,2015-09-05 14:19:28
+Nice one Google,2309,bah54b,https://i.imgur.com/mlbJEoG.jpg,44,1554678343.0,,2019-04-07 18:05:43
+Not quite what i had in mind,2315,75s6rz,https://i.imgur.com/jEKB53c.jpg,29,1507785201.0,,2017-10-12 00:13:21
+"Surprisingly no, I haven't...",2311,763n7n,https://i.imgur.com/Ka9dSdt.jpg,94,1507915261.0,,2017-10-13 12:21:01
+"Night Sight on Pixel 4 XL blew me away! And this was all completely handheld, with no edits.",2305,eio486,https://i.redd.it/d5ouuy4qj8841.jpg,33,1577943069.0,,2020-01-01 23:31:09
+( ͡° ͜ʖ ͡°),2300,7lfwq3,https://i.redd.it/urb306xfdf501.jpg,110,1513956054.0,,2017-12-22 09:20:54
+Classic Google,2283,blbxv9,https://i.redd.it/lhbis0mojkw21.jpg,45,1557176773.0,,2019-05-06 16:06:13
+"PSA: the ""I got my company banned by Google"" story was fake, potentially black PR",2271,8lg820,https://www.reddit.com/r/google/comments/8l231x/comment/dzf8cuq,109,1527074792.0,,2018-05-23 06:26:32
+When you reach 100 tabs in Chrome it turns to this!!,2276,ad6w9p,https://i.redd.it/s8xgn0uhvt821.png,157,1546820210.0,,2019-01-06 18:16:50
+Google Photos trying to unmask the Easter Bunny.,2273,craj31,https://i.redd.it/6urksirnuug31.jpg,40,1566009397.0,,2019-08-16 21:36:37
+Nice,2264,czn9rl,https://i.imgur.com/6nfnRs9.jpg,133,1567643781.0,,2019-09-04 19:36:21
+Well i believe,2264,ao50eb,https://i.redd.it/2qumrr7t26f21.jpg,30,1549583045.0,,2019-02-07 17:44:05
+Google please add this on Android Q before Apple does.,2251,bqkfnd,https://i.redd.it/h6dxc1za57z21.jpg,68,1558320380.0,,2019-05-19 21:46:20
+Thanks Google!,2253,bnqd66,https://i.redd.it/fik79ag6xsx21.png,44,1557704870.0,,2019-05-12 18:47:50
+Assistant is self aware,2243,7y5p4s,https://i.imgur.com/Idm0FgU.jpg,33,1518887672.0,,2018-02-17 11:14:32
+Elevator under construction at the Google NYC office.,2237,c9mkux,https://i.redd.it/7ippgxdkhk831.jpg,36,1562397095.0,,2019-07-06 02:11:35
+He’s not wrong tho,2239,es91ny,https://i.redd.it/7d6wk9swk4c41.jpg,24,1579709693.0,,2020-01-22 10:14:53
+Thanks Google,2236,3de15i,http://i.imgur.com/4sjWDvM.png,57,1437002258.0,,2015-07-15 18:17:38
+The Unstoppable search engine,2224,en2ajz,https://i.redd.it/yirxa51fm2a41.jpg,114,1578743026.0,,2020-01-11 05:43:46
+"Finally, Dark Mode is officially supported on Chrome!",2228,bhev8c,https://i.redd.it/owhkpeeblhu21.png,162,1556260462.0,,2019-04-26 01:34:22
+Looks like Clippy is the Assistants Grandfather,2209,5952h3,https://i.reddituploads.com/49a97f201e8a4e148700870f2f528be3?fit=max&h=1536&w=1536&s=963cfdeedb076a54bcbba80fb76d2e5b,32,1477351289.0,,2016-10-24 18:21:29
+I could never forget that,2207,82p0bf,https://i.imgur.com/aMSHFkJ.jpg,27,1520464783.0,,2018-03-07 17:19:43
+Made last night with nightsight. Its amazing!,2206,eigb4m,https://i.redd.it/qt0hdxqgs4841.jpg,73,1577897579.0,,2020-01-01 10:52:59
+YouTube Still Sucks:,2198,c4c1eu,https://i.redd.it/y75qcjrh55631.jpg,92,1561353228.0,,2019-06-24 00:13:48
+Poor Huawei,2202,c8k7t3,https://i.redd.it/lyjaag1yy0831.jpg,28,1562160801.0,,2019-07-03 08:33:21
+Android should notify you when apps are accessing your microphone,2187,7nxeor,https://fwned.com/android-notify-apps-accessing-microphone/,111,1515039898.0,,2018-01-03 22:24:58
+When Google wants to launch yet another social network,2184,dduvf4,https://i.redd.it/zu12xo200tq31.jpg,135,1570345472.0,,2019-10-06 02:04:32
+Earned $.10 for answering this tough question.,2185,4b3myx,http://imgur.com/pqr2DXp,109,1458432605.0,,2016-03-19 19:10:05
+Google Weather Material UI [Concept],2136,choqq7,https://i.redd.it/qosislg1rgc31.png,107,1564095256.0,,2019-07-25 17:54:16
+New animation when switching between Planets in Google Maps:,2134,eh6qg6,https://v.redd.it/ucgqoyrw5l741,84,1577659992.0,,2019-12-29 16:53:12
+And Google too,2134,dfw6ov,https://i.redd.it/jbwr326s0pr31.jpg,124,1570733097.0,,2019-10-10 13:44:57
+I’m screaming,2135,9p6vl7,https://i.redd.it/3ez6aku87ws11.jpg,136,1539874807.0,,2018-10-18 10:00:07
+When Google Home ignores your friends,2134,b3s0er,https://i.redd.it/hid5eqreshn21.png,16,1553211610.0,,2019-03-21 18:40:10
+Pixel phone has such a good camera,2122,5v59ro,http://imgur.com/5Dmwqvh,87,1487634984.0,,2017-02-20 17:56:24
+:(,2123,bro85j,https://i.redd.it/idhn3c1kbrz21.jpg,131,1558557188.0,,2019-05-22 15:33:08
+The New Google Material Design 2018,2121,976x5m,https://v.redd.it/xd3qav9f21g11,147,1534267807.0,,2018-08-14 12:30:07
+Abstract art that breaks Pixel 3 XL's white balancing,2107,drni2o,https://v.redd.it/vd5pgbzv8qw31,82,1572927704.0,,2019-11-04 22:21:44
+Avenge The Fallen,2112,b8pgls,https://i.redd.it/nkjnvrxb9xp21.png,150,1554270600.0,,2019-04-03 00:50:00
+This is impressive!,2106,bimqcm,https://i.redd.it/77o0zymno5v21.png,131,1556551857.0,,2019-04-29 10:30:57
+Google Maps now shows the weather of the area that you are looking at,2092,cyqo3j,https://i.redd.it/lnca3861c7k31.jpg,91,1567468019.0,,2019-09-02 18:46:59
+too much work ;-),2092,deuav7,https://i.redd.it/tkxc4cbvh8r31.png,83,1570533036.0,,2019-10-08 06:10:36
+I'm gonna use Inbox until the wheels fall off!,2093,b65kq2,https://i.imgur.com/5evPbNX.png,94,1553728648.0,,2019-03-27 18:17:28
+"Please don't make such jokes, my heart can't take it...",2089,blsh7u,https://i.redd.it/qjfx0gghbtw21.jpg,25,1557273833.0,,2019-05-07 19:03:53
+This happy little hare paid me a visit today.,2090,2tijw5,http://i.imgur.com/lWXKEee.jpg,141,1422139698.0,,2015-01-24 16:48:18
+Every time,2083,biubwq,https://i.redd.it/tafbcj4847v21.png,44,1556598601.0,,2019-04-29 23:30:01
+Google lens could have done a bit better here perhaps,2080,7f0anl,https://i.imgur.com/7JXicYN.png,66,1511479417.0,,2017-11-23 17:23:37
+Google pls,2082,6u7bc8,https://i.redd.it/xkquuwz1v7gz.png,33,1502968905.0,,2017-08-17 06:21:45
+Didn't know Google assistant lies outright,2066,a2c1fy,https://i.imgur.com/RU64AD8.png,136,1543772762.0,,2018-12-02 11:46:02
+Happy birthday,2064,daegfj,https://i.redd.it/o0vgy8zao8p31.jpg,29,1569696237.0,,2019-09-28 13:43:57
+"Google, PLEASE block Pinterest from your search results!",2060,br05xe,https://www.reddit.com/r/google/comments/br05xe/google_please_block_pinterest_from_your_search/,101,1558409658.0,"There's nothing more infuriating than searching for a graph, form or tutorial, only to click and find out nearly every result is from Pinterest I must create a Pinterest account to view it.
+
+Logging into an account then takes you to their home page. From which you need to search for what you were looking for.
+
+
+Pinterest is single handedly destroying the quality of Google search results.",2019-05-20 22:34:18
+I’m planning on becoming a Google Engineer! Think I’m qualified? 😩,2054,cec6rb,https://i.imgur.com/MQyolLl.jpg,171,1563395340.0,,2019-07-17 15:29:00
+"It’s okay, pixel 5 is on the way.",2049,djkwik,https://i.redd.it/ygs3dda3o9t31.jpg,247,1571418922.0,,2019-10-18 12:15:22
+Look closely,2051,c54h4k,https://i.redd.it/rjqz7ffgfb631.jpg,42,1561476210.0,,2019-06-25 10:23:30
+Just came to know that the Google Translate feature exists in google sheet as well.,2044,ba1ivy,https://v.redd.it/hnt09gc67lq21,53,1554560541.0,,2019-04-06 09:22:21
+A Google Assistant named Alexia,2035,b2m6d7,https://i.redd.it/d1ag3vm57xm21.jpg,70,1552962325.0,,2019-03-18 21:25:25
+Ok,2036,bd1fpo,https://i.redd.it/a6bd9odqh7s21.jpg,94,1555266190.0,,2019-04-14 13:23:10
+"In Tokyo, Google Maps shows the best train to board and the door you’re supposed to exit through.",2030,exmgiv,https://i.redd.it/vcaawzcxjhe41.jpg,87,1580667185.0,,2020-02-02 12:13:05
+Thanks for watching out for me Google,2020,8hnmpc,https://i.redd.it/0dc4cpe2vfw01.jpg,32,1525729863.0,,2018-05-07 16:51:03
+Microsoft's presenter installs Chrome during presentation because Edge won't work.,2017,7zv209,https://youtu.be/q4rL_Lnt6kA,157,1519484782.0,,2018-02-24 09:06:22
+Night Sight is legit,2014,a6b04v,https://i.redd.it/stb722bogc421.jpg,41,1544866019.0,,2018-12-15 03:26:59
+cmon google... wait actually keep it up,2022,bt0kqb,https://v.redd.it/i8k41qjoz9031,28,1558852528.0,,2019-05-26 01:35:28
+So i tried call screening my father...,2020,a2erdu,https://i.redd.it/11j8d1289w121.png,86,1543798104.0,,2018-12-02 18:48:24
+Google's screen calling is amazing,2011,ag7p1i,https://i.redd.it/uul6a07urka21.jpg,125,1547581717.0,,2019-01-15 13:48:37
+Got em,2012,9hp4im,https://i.redd.it/0qhqwx2z1ln11.jpg,142,1537560617.0,,2018-09-21 15:10:17
+Does anyone else get extremely annoyed by this button on YouTube? I hit it nearly every damn day and it skips to the next video without the ability to go back to the spot you left.,2006,e499lq,https://i.imgur.com/Wjsrjbo.jpg,120,1575199020.0,,2019-12-01 05:17:00
+Beautiful Google Docs,2006,8r4jlt,https://i.redd.it/0w83fgo5o0411.jpg,36,1529032722.0,,2018-06-14 22:18:42
+I finally figured how the volume kept getting turned up randomly,1999,eqm871,https://i.redd.it/kemjw7t2plb41.jpg,35,1579409851.0,,2020-01-18 22:57:31
+Google needs to remove ads from any kind of emergency medical query.,1992,95j2dv,https://i.redd.it/130ovar2aqe11.png,133,1533732951.0,,2018-08-08 07:55:51
+Hehe,1986,ddj3cy,https://i.redd.it/aok53769snq31.png,47,1570282279.0,,2019-10-05 08:31:19
+TIL Google shows Air Quality for different cities and even shows the main pollutant,1983,8oqasi,https://i.redd.it/q0rp1c1xb6211.png,189,1528229599.0,,2018-06-05 15:13:19
+Hey Google.,1979,d98eej,https://i.redd.it/1eathoilmso31.jpg,29,1569469212.0,,2019-09-25 22:40:12
+First time I've ever seen the top search result be old enough to legally drink.,1981,9nvghx,https://i.redd.it/znustc4hgzr11.png,48,1539480134.0,,2018-10-13 20:22:14
+The best of both worlds!,1985,7ykfn0,https://i.redd.it/r0yd46hwu3h01.jpg,443,1519046807.0,,2018-02-19 07:26:47
+Loving this election results design,1982,5bwfpr,http://imgur.com/e8Qo7lS,63,1478672824.0,,2016-11-09 00:27:04
+"So now it takes 3 clicks to change resolution on youtube, WTF google?",1976,1md18m,http://i.imgur.com/VOVt5bb.png,235,1379163322.0,,2013-09-14 07:55:22
+Figured out why I find the red glow of muted Home Minis unsettling.,1979,djb8k5,https://i.redd.it/b2t2fo7gh5t31.jpg,33,1571368987.0,,2019-10-17 22:23:07
+I think I bought the 3rd gen Chromecast too early,1972,9jtjww,https://i.redd.it/9n7fb3hom3p11.jpg,753,1538221355.0,,2018-09-29 06:42:35
+Google doesn't know how to spell German in German correctly,1976,bm69b8,https://i.redd.it/yeks64ue40x21.png,100,1557356237.0,,2019-05-08 17:57:17
+Google knows me so well,1965,6kz1ct,https://i.redd.it/sp66s2hbqc7z.jpg,24,1499105214.0,,2017-07-03 13:06:54
+"Candlelit bar in Krakow, Poland. Photo taken using Night Sight on Pixel 2.",1963,a4vjtj,https://i.redd.it/xplyn2t9ag321.jpg,84,1544476444.0,,2018-12-10 15:14:04
+I'm loving Google right now,1960,ar6njv,https://i.redd.it/z85h2b7ywvg21.png,21,1550331703.0,,2019-02-16 09:41:43
+Seems legit,1953,9dpvxy,https://i.redd.it/oaprxaq9nok11.jpg,46,1536315733.0,,2018-09-07 05:22:13
+"Searched ""What is iMeassage"" on Google app and it crashed.. on both my Phone and my Father's phone",1927,ecf9tt,https://i.redd.it/85aoeumqaf541.jpg,331,1576717251.0,,2019-12-18 19:00:51
+A really weird survey I just got from my Google Rewards... 🤔,1919,ejl18y,https://i.redd.it/9nvz46f7gm841.png,135,1578111385.0,,2020-01-03 22:16:25
+At least 3,1915,c6jbcg,https://i.redd.it/87oo8bgx63731.jpg,85,1561751852.0,,2019-06-28 14:57:32
+impressed with google map feedback,1912,38z31v,http://i.imgur.com/NPmCcMH.png,126,1433756152.0,,2015-06-08 04:35:52
+Google will soon start punishing mobile sites that show hard-to-dismiss popups,1916,4zbbph,https://techcrunch.com/2016/08/23/good-riddance/,55,1472051630.0,,2016-08-24 10:13:50
+Google knows better,1907,56rurf,https://i.redd.it/yyzy5c7mbnqx.png,25,1476133556.0,,2016-10-10 16:05:56
+Holy shit google actually saved me i dont live in brazil,1913,eo2w20,https://i.redd.it/d7ihv2ru6ja41.jpg,104,1578943610.0,,2020-01-13 13:26:50
+And it starts working the moment they go away,1902,ehqmhd,https://i.redd.it/la435sjumt741.jpg,73,1577762513.0,,2019-12-30 21:21:53
+Google Inbox recognized the context of one of my many reminders and gave me a time limit,1903,5jcvza,https://imgur.com/SUQfJCh,47,1482263776.0,,2016-12-20 13:56:16
+Just disappointed that Google Assistant can't even tell the time when offline...,1897,7oirbe,https://i.redd.it/0gye5bhsmf801.png,118,1515266728.0,,2018-01-06 13:25:28
+Just a lightbulb shot with my Pixel 3,1895,b7lut4,https://i.redd.it/hbej7pq39fp21.jpg,45,1554052605.0,,2019-03-31 12:16:45
+It doesn't work that way Instagram.,1889,bhz92r,https://i.redd.it/5mk3ugumatu21.png,89,1556401852.0,,2019-04-27 16:50:52
+Google just gifted me a Google Home Mini for being a YouTube Premium user,1888,dauqss,https://i.redd.it/ex997jll5jp31.jpg,250,1569790440.0,,2019-09-29 15:54:00
+Notice how the colour of the phone icon changes if it's a spam call.,1877,btyoml,https://i.redd.it/rtiyc251px031.jpg,71,1559070210.0,,2019-05-28 14:03:30
+Mozilla terminates its deal with Yahoo and makes Google the default in Firefox again,1881,7db9mc,https://techcrunch.com/2017/11/14/mozilla-terminates-its-deal-with-yahoo-and-makes-google-the-default-in-firefox-again/,91,1510852468.0,,2017-11-16 11:14:28
+An ally was here. I know it...,1874,dbwkjy,https://i.redd.it/ywbbjseoqyp31.jpg,24,1569979077.0,,2019-10-01 20:17:57
+"When you try to use street view over Area 51, the yellow dude is in an UFO",1874,ary8yu,https://i.redd.it/bu18ab04gch21.png,44,1550532171.0,,2019-02-18 17:22:51
+r/google,1873,d85zdw,https://i.redd.it/rv1ebdcx9co31.jpg,22,1569271237.0,,2019-09-23 15:40:37
+"Way to go, Google.",1866,6xv6zs,https://imgur.com/Vm9d5oB,51,1504495548.0,,2017-09-03 22:25:48
+"My phone recently got the google lens feature, so i kept asking it to identify stuff, until the assistant decided to roast me...",1863,8hvqis,https://i.redd.it/ilxerupf3mw01.jpg,65,1525805319.0,,2018-05-08 13:48:39
+The only thing I ever ask my Google home tbh.,1853,beuski,https://i.redd.it/06nwgjn085t21.jpg,73,1555674558.0,,2019-04-19 06:49:18
+Just found this relic while digging through my toolbox at work. Still valid until 2020 lol,1846,9nledn,https://i.redd.it/usxd9y7yzrr11.jpg,117,1539388078.0,,2018-10-12 18:47:58
+TIL that Google Assistant knows me better than I cldve imagined 😎,1845,7i1dmp,https://i.redd.it/re2vzsq1gd201.jpg,66,1512625157.0,,2017-12-06 23:39:17
+#googleassistant 😢,1847,dwdkox,https://i.redd.it/hufkt1kt2py31.png,60,1573784719.0,,2019-11-14 20:25:19
+When Google Street View car meets a horse,1842,4fn9vy,http://imgur.com/gallery/xNk16,47,1461187227.0,,2016-04-20 16:20:27
+Google: Please fix this search. People are not aware of the tragic that is happening in Brazil,1836,ctws7m,https://i.redd.it/1sxarq05vzh31.jpg,139,1566505933.0,,2019-08-22 15:32:13
+I did it,1839,aeweri,https://i.redd.it/f6cbl8rsat921.jpg,53,1547249097.0,,2019-01-11 17:24:57
+"Chrome Dark Theme ""Will be ready by 2040"" Explains Chrome Dev",1832,azypsl,https://i.redd.it/o8g8pj7h0kl21.jpg,130,1552366843.0,,2019-03-12 00:00:43
+Google Maps - 8 minute walk or a 45 hour drive,1819,8uriq7,https://i.imgur.com/OXvpdxH.jpg,80,1530289423.0,,2018-06-29 11:23:43
+I recently just passed $200 in all time Google survey rewards,1816,ccyp9y,https://i.imgur.com/V6cZbCs.png,316,1563105810.0,,2019-07-14 07:03:30
+Well thanks,1811,d3bv5f,https://i.redd.it/1n1nayuje7m31.png,25,1568340563.0,,2019-09-12 21:09:23
+Google notifiying me to watch Aladin for the 3rd time today.,1811,b0mdz5,https://i.redd.it/cdfbpnw38wl21.jpg,115,1552514691.0,,2019-03-13 17:04:51
+Just want to share a random pic of my buddy,1807,dybdc6,https://i.redd.it/6v6kc1bu1jz31.jpg,38,1574147600.0,,2019-11-19 01:13:20
+If YouTube says so,1802,btpnhe,https://i.redd.it/yqontqh7us031.jpg,51,1559011416.0,,2019-05-27 21:43:36
+Thanks Google!,1792,bc9ei6,https://i.redd.it/1alduyekerr21.jpg,43,1555071415.0,,2019-04-12 07:16:55
+reCaptcha's favourite question,1792,9uyejg,https://i.redd.it/i19aigzb1ww11.jpg,38,1541616288.0,,2018-11-07 12:44:48
+OCD 100,1795,diurep,https://i.redd.it/zyc34qnnnxs31.jpg,99,1571284514.0,,2019-10-16 22:55:14
+Pixel 4 packaging!,1793,dlhb12,https://imgur.com/XotYoxw,78,1571776585.0,,2019-10-22 15:36:25
+Irony,1785,8ul120,https://i.redd.it/fyhze4yclr611.png,35,1530232275.0,,2018-06-28 19:31:15
+I want them to fix this... But it's to good,1785,eyarb6,https://i.redd.it/ugujhmeixqe41.jpg,50,1580780715.0,,2020-02-03 19:45:15
+Evening Nuclear Blast / 4XL,1780,dutkyb,https://i.redd.it/ltp5t5bxm2y31.jpg,46,1573513501.0,,2019-11-11 17:05:01
+"A longtime Google engineer quits, saying the company is '100% competitor-focused' and 'can no longer innovate'",1785,7sqy2o,https://www.cnbc.com/2018/01/24/google-engineer-steve-yege-calls-company-100-percent-competitor-focused.html,143,1516861129.0,,2018-01-25 00:18:49
+And so it began!,1785,egdbaa,https://i.redd.it/t31y1xkdl2741.jpg,90,1577493433.0,,2019-12-27 18:37:13
+"Google, Please STOP this or allow us to report it",1777,ay3icq,https://i.redd.it/amtnhbhfkfk21.jpg,89,1551932947.0,,2019-03-06 22:29:07
+Google knows what's best for you,1775,cbug3a,https://i.redd.it/44lqbch2qn931.png,36,1562872121.0,,2019-07-11 14:08:41
+Night sight in Sydney,1770,b4uxf0,https://i.redd.it/1a0u8xkin1o21.jpg,29,1553452103.0,,2019-03-24 13:28:23
+Night Sight Gang,1759,a1isj8,https://i.redd.it/uxrtmppypa121.jpg,110,1543537466.0,,2018-11-29 18:24:26
+Tried to screen a call from my wife.,1754,a86ea1,https://i.imgur.com/uKh2mWW.png,151,1545395976.0,,2018-12-21 06:39:36
+Trying to sell google...,1758,70a0mf,https://i.redd.it/io51v68vz1mz.png,39,1505512970.0,,2017-09-15 17:02:50
+Gboard is kind of smart,1757,5jqef3,http://imgur.com/ZW5Cy0g,210,1482439708.0,,2016-12-22 14:48:28
+That was fast,1750,bwfll8,https://i.redd.it/7y6516jnb7231.jpg,50,1559622627.0,,2019-06-03 23:30:27
+Kinda stupid when I want to track my lost phone and this is what they ask.,1757,btdf05,https://i.redd.it/rinp047ehm031.jpg,118,1558934464.0,,2019-05-27 00:21:04
+Dbrand roasting Google Pixel 4,1745,dm477t,https://i.redd.it/1rphi8kqccu31.png,193,1571887271.0,,2019-10-23 22:21:11
+Google announces a Chromebook Light,1748,b7yrnx,https://i.redd.it/hk2y1pr5qlp21.jpg,37,1554131105.0,,2019-04-01 10:05:05
+"Literally SECONDS after I told Google to ""shut up"" this pops up in opinion rewards...",1740,8b7vu6,https://i.imgur.com/cyhxpjK.png,107,1523398602.0,,2018-04-10 17:16:42
+Waiting for Gmail Dark Mode on iOS 13 got me like...,1733,dniksv,https://i.imgur.com/KxNWQ68.jpg,92,1572147215.0,,2019-10-26 22:33:35
+"Hey Google, exactly what kind of AI am I helping you guys train with this?",1738,5udzy4,https://i.reddituploads.com/f1b6fab442e6466691cc28c51da637b1?fit=max&h=1536&w=1536&s=f61553ac1e1729798d00a2f11bc52ac5,132,1487269068.0,,2017-02-16 12:17:48
+Accidentally came across this feature in search which plays animal noises,1730,4vy1xn,http://i.imgur.com/gi40D46.png,53,1470253161.0,,2016-08-03 14:39:21
+Google in a nutshell,1733,9r2ahg,https://i.redd.it/rm4yxlp7f6u11.png,118,1540434418.0,,2018-10-24 21:26:58
+This is what really happened to YouTube...,1724,9oyu6h,https://i.imgur.com/QHssBIE.gifv,19,1539813068.0,,2018-10-17 16:51:08
+"Stay strong, comrades",1725,domzvv,https://i.redd.it/8chjfitszfv31.jpg,31,1572367216.0,,2019-10-29 11:40:16
+Literally Every Time.....,1729,b9f8ma,https://i.redd.it/1uqkyydy1aq21.jpg,73,1554425510.0,,2019-04-04 19:51:50
+"""Hey Google, what's the best idea for a Halloween costume?""",1722,dpnz4g,https://i.redd.it/yioq6b0ttvv31.jpg,33,1572559393.0,,2019-10-31 17:03:13
+Night portrait I shot of my friend with the Pixel 2.,1723,7dx493,https://i.redd.it/gd7a0nstwtyz.jpg,87,1511081165.0,,2017-11-19 02:46:05
+A look inside my mysterious letter.,1711,a7nfdc,https://i.redd.it/v3kkho6979521.jpg,132,1545262376.0,,2018-12-19 17:32:56
+Bing is trying hard,1711,9afbu7,https://i.redd.it/d8xncjfhqfi11.jpg,108,1535316979.0,,2018-08-26 15:56:19
+I keep getting articles from several years ago in my feed and it needs to stop,1709,9rvhnb,https://i.redd.it/wnpppacb7ru11.png,110,1540685992.0,,2018-10-27 19:19:52
+It’s cute that predictive text thinks I’m straight edge.,1705,aszu36,https://i.redd.it/tocdoe5b8vh21.jpg,57,1550759258.0,,2019-02-21 08:27:38
+"Google actually saved me wow, first time. I am not from Philippines",1706,ehi2k5,https://i.redd.it/v3zud6gjnp741.jpg,198,1577714318.0,,2019-12-30 07:58:38
+"I've filled in a lot of these, but Google Maps just asked me ""Does this place serve cholesterol?"" That's a new one.",1702,8kvw5f,https://imgur.com/EJLlPOp,63,1526882243.0,,2018-05-21 00:57:23
+Street View visits Scotland,1695,azmuq8,https://i.gyazo.com/def43058ae29dddc29aeb5aeae091360.jpg,22,1552294454.0,,2019-03-11 03:54:14
+Google Maps rolling out support for speed limit signs,1688,ajqhc9,https://i.redd.it/ggf6y27yelc21.png,122,1548461182.0,,2019-01-25 18:06:22
+I usually don't like Google Photos' auto edits but damn this one looks great.,1696,bycjbd,https://i.redd.it/5vxh0ygv57331.jpg,69,1560056546.0,,2019-06-09 00:02:26
+It's things like this that make me appreciate Google more,1694,9ix9jn,https://imgur.com/52fVmiY,49,1537947217.0,,2018-09-26 02:33:37
+My Google rep hooked me up today!,1685,dlauut,https://i.redd.it/se00tz2210u31.jpg,142,1571738063.0,,2019-10-22 04:54:23
+Microsoft Promising to Actually Use What's New Section on Play Store,1688,d1ve4z,https://i.redd.it/icvrsapt9ml31.png,70,1568084728.0,,2019-09-09 22:05:28
+Very cool!,1691,cggl45,https://i.redd.it/be3sm9o0hrb31.jpg,39,1563847107.0,,2019-07-22 20:58:27
+Found extinct plant on my garden. Thanks Google,1683,dh7hoc,https://i.redd.it/zlkq1ibih9s31.jpg,60,1570980871.0,,2019-10-13 10:34:31
+Humanity just lost the Turing-Test,1684,8hysy3,https://i.redd.it/s1z3ctc78ow01.png,171,1525831167.0,,2018-05-08 20:59:27
+"Well shit, thanks google, for real",1679,50psd1,http://i.imgur.com/aM9QhTj.png,71,1472795730.0,,2016-09-02 00:55:30
+I know it's not a thing anymore and I probably won't use it but for $250 I had to get it,1681,crnr26,https://i.redd.it/jmu7hvul41h31.jpg,96,1566085341.0,,2019-08-17 18:42:21
+Google really thinks long term,1679,75xju3,https://i.redd.it/gvxj67zyyerz.png,56,1507849319.0,,2017-10-12 18:01:59
+Of course Google. That's exactly what I wanted to know.,1670,cs0ofm,https://i.imgur.com/3tGgiU0.png,41,1566160602.0,,2019-08-18 15:36:42
+So close yet entirely backwards,1668,8xcp07,https://i.redd.it/f5f3wpnvxx811.jpg,58,1531178909.0,,2018-07-09 18:28:29
+Allo died for this,1669,b18w0e,https://i.redd.it/9943qgazt6m21.png,102,1552643115.0,,2019-03-15 04:45:15
+So I got this notification from Maps,1667,9wd2ru,https://i.redd.it/i9nc04olrvx11.jpg,30,1542048788.0,,2018-11-12 12:53:08
+Galaxy's Edge with Night Sight,1667,cbd1sz,https://imgur.com/T2d9AEz.jpg,71,1562768501.0,,2019-07-10 09:21:41
+"Good guy Google Express, doesn't make you buy a filler item when you're under (but close to) the free shipping minimum",1663,8rgw0w,https://imgur.com/fFi21nb,45,1529150110.0,,2018-06-16 06:55:10
+"Google ""Dark Mode"" Implementation..",1659,dhks2u,https://i.redd.it/q04vzbqsbfs31.png,129,1571051645.0,,2019-10-14 06:14:05
+I think I win for weirdest opinion reward question...,1664,bl47ca,https://i.redd.it/izmo79j92hw21.png,61,1557125449.0,,2019-05-06 01:50:49
+🙄,1660,99l6qw,https://i.imgur.com/DqApQoh.jpg,64,1535036635.0,,2018-08-23 10:03:55
+Got my socks!,1656,dklbxj,https://i.imgur.com/sgqhqVF.jpg,92,1571615208.0,,2019-10-20 18:46:48
+RAM's lovers Rhyme,1656,9f0d4z,https://i.redd.it/i9j5ynegzll11.jpg,77,1536721419.0,,2018-09-11 22:03:39
+Lost in translation,1656,b0ya09,https://i.imgur.com/N3aTgQK.png,22,1552584906.0,,2019-03-14 12:35:06
+Incognito sunglasses,1652,5ghaw3,http://imgur.com/38ja8l8,29,1480910096.0,,2016-12-04 21:54:56
+Enjoying the Google ecosystem.,1637,a8rs6u,https://i.imgur.com/ks1PPeg.jpg,265,1545567668.0,,2018-12-23 06:21:08
+Live translate. Bixby vs Google Lens,1638,dbm6dh,https://i.redd.it/o1ho2edj5up31.png,136,1569923534.0,,2019-10-01 04:52:14
+"So, that Night Sight thing is pretty legit.",1635,9xo7yv,https://i.imgur.com/Rane1o3.jpg,70,1542418112.0,,2018-11-16 19:28:32
+Google is going to start punishing websites that force full-screen app install ads on your phone,1631,3jcw3b,http://www.businessinsider.com/google-updates-mobile-friendly-mobilegeddon-test-for-app-install-ads-2015-9,83,1441230876.0,,2015-09-02 16:54:36
+[Pixel 3] - Night Sight is 👌🏻,1626,aah4pa,https://i.redd.it/d7ef81vnp4721.jpg,63,1546079728.0,,2018-12-29 04:35:28
+Siri has begun suggesting I use Google Assistant,1620,cvozvf,https://i.redd.it/kdsxkcvc2ti31.jpg,39,1566859420.0,,2019-08-26 17:43:40
+"Love this feature from google! It shows me exactly where movies,show are available.",1622,bxg0r7,https://i.redd.it/8wk6orpr9q231.jpg,68,1559852035.0,,2019-06-06 15:13:55
+"Didn't use it recently, but will miss it.",1620,am9v13,https://i.redd.it/z60ehc97i2e21.jpg,87,1549103949.0,,2019-02-02 04:39:09
+Unveiling the Android Pie lawn statue at the Googleplex,1618,95602p,http://imgur.com/6Zu4C7c,119,1533624105.0,,2018-08-07 01:41:45
+You can swipe down your Account icon in the Gmail app to quickly switch between accounts,1613,dvbc2z,https://i.redd.it/g7ssn2lut9y31.gif,79,1573600656.0,,2019-11-12 17:17:36
+Switching between the new Globe view and the previous flat view in Google Maps is quite satisfying,1609,94r3ds,https://v.redd.it/lvek6ssz89e11,65,1533495657.0,,2018-08-05 14:00:57
+This review of the new Google Mail app,1608,at3sue,https://i.redd.it/034i4oa1nxh21.jpg,110,1550788424.0,,2019-02-21 16:33:44
+One of MANY reasons why I switched from RING DOORBELL to GOOGLE NEST! *Package Alerts*,1594,e9c4ir,https://i.redd.it/hb9i36y372441.jpg,123,1576122790.0,,2019-12-11 21:53:10
+Yup Google - it's perfect beach weather...,1591,afau2f,https://i.redd.it/rsb6gaspp1a21.png,56,1547350969.0,,2019-01-12 21:42:49
+Can I just get Google to write my whole resume,1595,d0hmkw,https://i.redd.it/agbsw0izkzk31.jpg,43,1567810029.0,,2019-09-06 17:47:09
+"I saw this on chrome's ""articles for you"" bit, it lines up perfectly.",1593,c0x646,https://i.redd.it/whsl5tkzsi431.png,17,1560633328.0,,2019-06-15 16:15:28
+Google fired Paul Duke as they protest against company policies.,1588,e65wm4,https://i.redd.it/1rhq6xbqlo241.jpg,260,1575522365.0,,2019-12-04 23:06:05
+"Me? No, I'm not a Google fan!",1582,co0mln,https://i.redd.it/om78r6vojef31.jpg,219,1565376120.0,,2019-08-09 13:42:00
+"Dear Google, please don't kill Google Play Music. At least not with the current state of the confusing, buggy, incomplete YouTube Music.",1590,a9mt2j,https://www.reddit.com/r/google/comments/a9mt2j/dear_google_please_dont_kill_google_play_music_at/,293,1545840279.0,"I gave YTM a fair shot. I used it for a solid 3 months after using GPM for about 3 months. I heard they were planning on canning GPM so I figured I might as well bite the bullet and switch. Here are my main takeaways.
+
+1: YTM is incomplete. There are albums on GPM that aren't on YTM. To rub this in further, the ads for YTM say ""it's all here"". It ain't. I know that there are holes in both services but in my experience, YTM is incomplete.
+
+2: YTM is buggy. There was a bug I encountered where I couldn't access my downloads without a connection sometimes. Idk why. It may be a bug on my end, but still, I had no bugs with GPM.
+
+3: Finally, the biggest con. YTM is straight up confusing. It's less intuitive to use. Why isn't there a song or genre tab in my library. Also GPM library tabs give previews of the contents of the tab as you can see in this pic
+
+https://m.imgur.com/gallery/COwoew7 (sorry I made it on my phone.)
+
+Also I NEVER use the hotlist tab in YTM. I just want my library. Not to mention the fact that subscribing to artists in YTM turns your regular YT feed into a flaming garbage blob.
+
+There are only 2 things I like about YTM over GPM. First is the dark theme. Dark theme good. Second the offline mixtapes are cool. I've found a couple of good artists through it.
+
+So Google, please don't pull the plug on GPM when the alternative you'll force us to use is incomplete, buggy and confusing. We'll switch to spotify. YT music isn't just not good, it's kinda bad.",2018-12-26 10:04:39
+Night sight on pixel 3 XL laser tag . The picture looks better than real life!,1577,a454d3,https://i.redd.it/31sekhshrx221.jpg,56,1544252209.0,,2018-12-08 00:56:49
+"I tested Google image recognition on an Apple Home Pod. Nice try, Google!",1577,8610bw,https://i.redd.it/541o6njte3n01.png,63,1521656534.0,,2018-03-21 13:22:14
+Whenever Google is down...,1575,9k0uut,https://i.redd.it/waquf8ib09p11.jpg,14,1538286487.0,,2018-09-30 00:48:07
+Pixel 2 XL - Night Sight - Paris,1566,a5d4qg,https://i.redd.it/ytt6dbqmxq321.jpg,64,1544605371.0,,2018-12-12 03:02:51
+Aren't we all inspired by this,1571,d8zq8h,https://imgur.com/EEXWLrL,43,1569423809.0,,2019-09-25 10:03:29
+"If we keep it quiet, they will just forget about us",1562,b8h7f4,https://i.redd.it/4j67a01qqtp21.jpg,79,1554228034.0,,2019-04-02 13:00:34
+It's seriously impressive how the search algorithm works. First result is correct.,1566,8887ni,https://i.redd.it/lbzlwo8hauo01.png,78,1522417910.0,,2018-03-30 08:51:50
+Because you like dipping sauce...,1566,avlohu,https://i.redd.it/a8qaw72ny7j21.png,63,1551349244.0,,2019-02-28 04:20:44
+My Pixel 2xl has dual flashlights,1563,aijysi,https://i.redd.it/13utovxm2xb21.png,88,1548166476.0,,2019-01-22 08:14:36
+Savage Assistant,1560,59lob5,http://i.imgur.com/GrUjLpm.png,16,1477564316.0,,2016-10-27 05:31:56
+what,1550,ecsajn,https://i.redd.it/uw10tnzryk541.png,44,1576785867.0,,2019-12-19 14:04:27
+If Google Docs had a dark theme,1550,bdeby3,https://i.redd.it/pejal7cvles21.png,83,1555352342.0,,2019-04-15 13:19:02
+The addiction continues,1548,a9fk56,https://imgur.com/hWwmz5d,94,1545779895.0,,2018-12-25 17:18:15
+It's time to fix sharing on Android.,1552,930wi3,https://i.redd.it/aac8hdn7f0d11.png,167,1532952344.0,,2018-07-30 07:05:44
+"Night Sight, I bow before thee.",1535,abkry1,https://i.redd.it/hq9t5hvszu721.jpg,43,1546397917.0,,2019-01-01 20:58:37
+"Thanks to this subreddit, my kid got to see a Google Street View car. Thanks guys!",1538,8ayc63,https://i.redd.it/ug1e159ivvq01.jpg,35,1523308684.0,,2018-04-09 16:18:04
+Ok,1537,7tsufd,https://i.redd.it/ooszhmgdu0d01.png,41,1517266914.0,,2018-01-29 17:01:54
+Google with their products right now,1534,7c0b5u,https://i.redd.it/10dx2fhzj4xz.png,105,1510338298.0,,2017-11-10 12:24:58
+[Protip] In the new Gmail ⁦redesign iOS users can switch accounts by swiping down between avatars,1530,axbwrl,https://v.redd.it/swzg8c4zv5k21,91,1551760081.0,,2019-03-04 22:28:01
+Way to put it bluntly,1530,7gntns,https://i.redd.it/97wk0hsfa5101.png,39,1512090567.0,,2017-11-30 19:09:27
+Wow very interesting google,1521,b1oelo,https://i.redd.it/kh7oq5c4pem21.jpg,36,1552738335.0,,2019-03-16 07:12:15
+Just found out Google does this:,1521,1j0ss7,http://i.imgur.com/Qg5fMod.jpg,103,1374781812.0,,2013-07-25 14:50:12
+Ant-Man + Thanos =,1522,bbish1,https://i.redd.it/84hnpvd4tdr21.jpg,59,1554906813.0,,2019-04-10 09:33:33
+"Arnold, grab Billy! We need him for the pizza!",1522,cxhthq,https://i.redd.it/rq7jkyk3llj31.jpg,18,1567204723.0,,2019-08-30 17:38:43
+"Man, I'm loving this phone and Astrophotography Mode!",1517,ergxvg,https://i.redd.it/z7i3vztd4zb41.jpg,51,1579572338.0,,2020-01-20 20:05:38
+Hmm,1510,egsrxz,https://i.redd.it/niwakzmeje741.png,61,1577579753.0,,2019-12-28 18:35:53
+showing iOS help on an Android device isn't very helpful...,1517,9ptbxf,https://i.imgur.com/GIq7XxW.png,82,1540062919.0,,2018-10-20 14:15:19
+Google.com domain registered 20 years ago today,1513,70h1v8,https://twitter.com/Google/status/908742851873460224,39,1505599658.0,,2017-09-16 17:07:38
+4 seconds in mematic,1515,em2de1,https://i.redd.it/jog37a8fnn941.jpg,54,1578561761.0,,2020-01-09 03:22:41
+The Google Congressional hearing summarised,1516,a6zao4,https://i.redd.it/p7xtrgrpxt421.jpg,55,1545077565.0,,2018-12-17 14:12:45
+So I got this in the mail today.,1515,44tbhm,http://i.imgur.com/FrdGhgr.jpg,202,1454998114.0,,2016-02-09 00:08:34
+Understanding drunk-type never ceases to amaze,1507,9zmrtw,https://i.redd.it/5im1zlffq1021.png,33,1542992728.0,,2018-11-23 11:05:28
+"The new Google controller, straight from the GDC keynote",1505,b302yv,https://i.imgur.com/jkYdx4K.jpg,283,1553044526.0,,2019-03-19 20:15:26
+Come on Google. This isn't science.,1500,7m2z4m,https://i.redd.it/1iu17w30q3601.png,29,1514257693.0,,2017-12-25 21:08:13
+Google's search algorithm is scary good sometimes,1499,9uuod4,https://i.imgur.com/ogZZtNM.png,35,1541582767.0,,2018-11-07 03:26:07
+Why has Google allowed Pinterest to pollute the Images search results? The results are registration-only,1502,c90ywx,https://www.reddit.com/r/google/comments/c90ywx/why_has_google_allowed_pinterest_to_pollute_the/,84,1562264479.0,,2019-07-04 13:21:19
+Boooooo #SaveInbox,1493,9wy98x,https://i.redd.it/9juuc2l0b9y11.png,253,1542212715.0,,2018-11-14 10:25:15
+"This new captcha is really, really annoying",1492,5nvnyk,https://gfycat.com/FrankDeafeningEskimodog,172,1484397986.0,,2017-01-14 06:46:26
+can j,1492,8z4iam,https://i.redd.it/0zq6uqi836a11.jpg,71,1531713414.0,,2018-07-15 22:56:54
+How to properly address leaks. 😂,1496,d59p2x,https://i.redd.it/88iko42sz1n31.jpg,65,1568710907.0,,2019-09-17 04:01:47
+Every time I 'No Thanks' on a YouTube TV banner,1496,c5fzbn,https://i.redd.it/86psg5fcpk631.jpg,153,1561528030.0,,2019-06-26 00:47:10
+I received a package today from Google,1490,3vbdol,http://imgur.com/a/Rre40,69,1449199137.0,,2015-12-03 21:18:57
+Found a piece of history today when going through an old box,1483,bms0z7,https://i.imgur.com/3x6pRj7.jpg,58,1557479617.0,,2019-05-10 04:13:37
+Apparently my Google News believes astrology is science.,1486,8p0kop,https://i.redd.it/1ntkrbrltd211.png,107,1528320249.0,,2018-06-06 16:24:09
+For those who uses the Google Fit app,1485,d1lgr1,https://i.redd.it/gb3byom4nhl31.png,72,1568028667.0,,2019-09-09 06:31:07
+Blazing campfire through the camera of a Google Pixel 3a,1481,dmg8gy,https://i.redd.it/3tv3ff48ohu31.jpg,53,1571951672.0,,2019-10-24 16:14:32
+Alphabet just became the most valuable company on the planet.,1480,43qo58,http://techcrunch.com/2016/02/01/alphabet-becomes-the-most-valuable-company-in-the-world/,155,1454390170.0,,2016-02-01 23:16:10
+"Honestly, Google server update is so annoying. We enrolled in beta for a reason, we expect bugs. Just give it to us.",1477,d8ohsj,https://i.redd.it/l5kssh845ko31.jpg,82,1569366475.0,,2019-09-24 18:07:55
+The Night Sight is doing a really god job on my Pixel 2,1476,aa47uo,https://i.redd.it/bgeoqpaphw621.jpg,44,1545980196.0,,2018-12-28 00:56:36
+Assistant's Halloween Easter Eggs are fun,1471,76modu,https://imgur.com/KIq1uDm,29,1508140340.0,,2017-10-16 02:52:20
+"TIL that Google actually responds to feedback I sent, and does so pretty quickly",1466,74vmth,https://i.redd.it/c2m6rw0gjfqz.png,92,1507420500.0,,2017-10-07 18:55:00
+Leaked Demo of Google Duplex (Mm-Hmm version 2: Dumping girlfriend),1463,8iuxkf,https://www.youtube.com/watch?v=qB9sYGZJdbs,44,1526145192.0,,2018-05-12 12:13:12
+Oh not again,1464,bjlvag,https://i.redd.it/xzh5s76yemv21.jpg,18,1556770405.0,,2019-05-01 23:13:25
+Google Maps should have a “Scenic” route option that guides you past landmarks on your drive.,1457,bct9n1,https://www.reddit.com/r/CrazyIdeas/comments/bclx72/google_maps_should_have_a_scenic_route_option/,46,1555207377.0,,2019-04-13 21:02:57
+Pixel 2 XL and a macro lens,1457,acjytk,https://i.redd.it/ervm9ac3rf821.jpg,66,1546649253.0,,2019-01-04 18:47:33
+Phish - New Year's Eve - Madison Square Garden - Pixel 3 - Night Sight,1456,abtto8,https://i.imgur.com/ewGVEGP.jpg,29,1546467873.0,,2019-01-02 16:24:33
+Night sight @ Vivid Sydney,1453,c2vw3c,https://i.redd.it/hz8hzytihi531.jpg,18,1561065322.0,,2019-06-20 16:15:22
+"I just got my brand new Google Pixel 3 XL in the mail, and this is the first thing i see when i turn it on.",1450,bg03l3,https://i.redd.it/gfzkwhi9cst21.png,122,1555954465.0,,2019-04-22 12:34:25
+Found this on r/apple. This info needs to be spread. People are really thinking that Google is just simply selling your location to advertisers.,1445,9vc9in,https://i.redd.it/mmjdvxqlb5x11.png,196,1541728705.0,,2018-11-08 19:58:25
+Google Maps prepares to add a “Lighting” layer to highlight brightly lit streets for safer night travel,1444,e7eocp,https://www.xda-developers.com/google-maps-prepares-lighting-layer-highlight-brightly-lit-streets-night-travel/,56,1575756394.0,,2019-12-07 16:06:34
+Google ad from 1999,1436,d04xg8,https://i.redd.it/25d4225gmtk31.jpg,110,1567737873.0,,2019-09-05 21:44:33
+Essential phone shot with google camera,1436,ad0ysh,https://i.redd.it/85e219vfkp821.jpg,47,1546768072.0,,2019-01-06 03:47:52
+My granddad's new smartphone!,1432,96hh37,https://i.imgur.com/72Eld6M.jpg,120,1534031166.0,,2018-08-11 18:46:06
+"Allo, Duo, Hangouts, Google Voice, and Messenger",1432,89nb2m,https://i.redd.it/9jeaqtpndup01.png,106,1522854762.0,,2018-04-04 10:12:42
+My Pixel knows me too well.,1433,9gtd3d,https://i.redd.it/0se4prklwym11.png,21,1537292458.0,,2018-09-18 12:40:58
+Google London HQ with the robots as floors!,1433,ald410,https://i.redd.it/ckujc3djkkd21.jpg,47,1548886815.0,,2019-01-30 16:20:15
+Holy shit google is so god damn cool,1431,5z00kl,https://i.redd.it/ge9r2d53q0ly.png,34,1489371201.0,,2017-03-12 21:13:21
+"Averaged out, Alphabet makes $615.96 every ... second.",1426,7m8izp,https://imgur.com/UE9i56u,154,1514333134.0,,2017-12-26 18:05:34
+Google finally looks like they are bringing speed limits in Google Maps!!,1422,8i1c2b,https://i.imgur.com/ej3nWN2.jpg,116,1525850846.0,,2018-05-09 02:27:26
+My accent is not that bad 😣,1418,eec6o0,https://i.redd.it/foramxu4t9641.jpg,59,1577086642.0,,2019-12-23 01:37:22
+I built a machine so that Google can pour me a whisky,1426,89pqqk,https://v.redd.it/h4bssp7qewp01,121,1522879568.0,,2018-04-04 17:06:08
+Night Shot on Pixel One. This time definately yay ¿,1412,aduf4p,https://i.redd.it/72gnrkgig7921.jpg,44,1546984672.0,,2019-01-08 15:57:52
+Google co-founder Sergey Brin joins protest against immigration order,1412,5qslp1,http://www.theverge.com/2017/1/28/14428262/google-sergey-brin,82,1485701540.0,,2017-01-29 08:52:20
+Guess what I've found in google server room. [Virtual tour],1404,99v5y3,https://i.redd.it/wok94y35mzh11.png,40,1535121843.0,,2018-08-24 09:44:03
+"Very helpful notification from google, thank u i needed that",1408,coy1up,https://imgur.com/IgBGHY3,111,1565566018.0,,2019-08-11 18:26:58
+Burj kalifa. Night sight on the og pixel xl,1405,a4sgir,https://i.redd.it/v1ln7rw6rd321.jpg,45,1544445814.0,,2018-12-10 06:43:34
+"Oh, Quora.",1403,drbcba,https://i.redd.it/qtql2jqw2lw31.png,40,1572864636.0,,2019-11-04 04:50:36
+Mildly Interesting: Abbey Road on Google Street view!,1397,ei2yp8,https://i.redd.it/8tj7gwti2z741.jpg,16,1577828320.0,,2019-12-31 15:38:40
+WHOA! I just got a call from Google's advanced Assistant!!!,1398,e8f137,https://www.reddit.com/r/google/comments/e8f137/whoa_i_just_got_a_call_from_googles_advanced/,134,1575950081.0,"So I'm at work and get a phone call. There was a man's voice saying he was calling on behalf of Google Maps. He told me he was Google's Assistant trying to accurately update our work hours for Christmas day. It took me a second to process what he had just said because A) it sounded like I was just talking to a regular person, and B) I was trying to put what he just said into context, while simultaneously looking for my work schedule lol. 
+
+I told him at first ""I believe we're closed Christmas day?"" He responds with ""Mhmm, ok, so you're telling me that you are closed on Christmas day, correct?"" I reply with ""I believe so, correct."" Then he thanked me for my time and wished me a great day!
+
+Someone like me, who watched Google's presentation a couple years ago for Duplex, could tell (barely) where certain inflections were being output by a robot lol. But if I hadn't seen Google's Duplex presentation, and I wasn't listening for those telltale signs, I would've never guessed that was Google's Assistant AI calling me. So yeah, that was pretty rad lol!",2019-12-09 21:54:41
+Prime video app now supports Chromecast,1401,cb0zlu,https://i.redd.it/utyr94su6a931.jpg,101,1562708273.0,,2019-07-09 16:37:53
+"Sometimes I love her, sometimes I don't",1395,9zx6f5,https://i.redd.it/lttozo1zy8021.png,62,1543080353.0,,2018-11-24 11:25:53
+[OC] NYC Midtown Skyline with Pixel 3 Night Sight,1393,c16vm2,https://i.redd.it/i5mfw7octn431.jpg,39,1560693986.0,,2019-06-16 09:06:26
+Nexus 7 original package. I loved this little tablet and would buy it again if I could.,1391,e0jmbc,https://i.redd.it/ujy6qbpdkg041.jpg,144,1574553362.0,,2019-11-23 17:56:02
+She got me,1389,6e20iy,http://i.imgur.com/bYUoKZX.png,29,1496111939.0,,2017-05-29 21:38:59
+Google Drive autocorrect has reached a new level (x-post from /r/tumblr),1379,56b55d,http://i.imgur.com/qb2XO3p.jpg,28,1475872792.0,,2016-10-07 15:39:52
+Ads in Google Feed? Not cool,1374,bpe47l,https://i.redd.it/zf5xupnlfly21.jpg,217,1558050112.0,,2019-05-16 18:41:52
+This is how Google translates language codes...,1378,e4trnr,https://i.redd.it/jusqwcctf5241.png,40,1575290343.0,,2019-12-02 06:39:03
+"""smart"" assistant",1370,6o8zz9,https://imgur.com/UCJktHj,60,1500505093.0,,2017-07-19 17:58:13
+"Take 2 mins out of your day to hit ""express"" and tell the FCC you stand for net neutrality",1368,6a5sov,https://www.fcc.gov/ecfs/search/proceedings?q=name:((17-108)),93,1494369544.0,,2017-05-09 17:39:04
+Thanks google,1368,efenca,https://i.imgur.com/ZkU3EAC.jpg,21,1577295496.0,,2019-12-25 11:38:16
+"Thanks for the wholesomeness, Assistant! :)",1370,9q42vo,https://i.redd.it/1dea9gm7bjt11.jpg,14,1540162336.0,,2018-10-21 17:52:16
+Who thought this was a good idea? (Play Music v Youtube Music),1361,9iik42,https://i.imgur.com/5RJ4wFN.jpg,87,1537829457.0,,2018-09-24 17:50:57
+Google wants to do away with my memes :(,1360,csffqa,https://i.redd.it/4a9drmikydh31.png,93,1566240699.0,,2019-08-19 13:51:39
+Google is now helping you learn pronunciations. Awesome 👍,1359,dwqmmd,https://i.redd.it/ad05lmhfouy31.jpg,66,1573852519.0,,2019-11-15 15:15:19
+Shot using Google Camera,1360,ev9bdw,https://i.redd.it/rjeb9jeebkd41.jpg,31,1580264800.0,,2020-01-28 20:26:40
+Google never ceases to surprise me,1358,5j3i56,https://i.redd.it/4vk40om29f4y.png,35,1482137671.0,,2016-12-19 02:54:31
+"Thanks Google, I think I'll pass.",1351,chhsvf,https://i.redd.it/r1lrrjo03dc31.png,68,1564050845.0,,2019-07-25 05:34:05
+*cries in Nexus 6P*,1355,aoss86,https://i.imgur.com/V2aShZ7.jpg,69,1549751444.0,,2019-02-09 16:30:44
+The more I use Assistant the more dissapointed I am...,1347,ai7u4i,https://i.redd.it/bsbqu9rdcqb21.jpg,117,1548085005.0,,2019-01-21 09:36:45
+Google will now store unlimited photos and videos up to 16 MP and 1080P.,1348,37mdm2,http://googleblog.blogspot.com/2015/05/picture-this-fresh-approach-to-photos.html,270,1432865090.0,,2015-05-28 21:04:50
+Exclusive: Google creates $4 million crisis fund for immigration cause,1340,5qyvzi,http://www.usatoday.com/story/tech/2017/01/29/exclusive-google-creates-4-million-crisis-fund-immigration-cause/97231876/,99,1485782831.0,,2017-01-30 07:27:11
+Oh man. Google Photos screwed up big time!,1340,3blvwj,http://i.imgur.com/S8NTKvL.jpg,159,1435678102.0,,2015-06-30 10:28:22
+Demand NET NEUTRALITY!,1332,6d73jf,https://i.redd.it/ft6l68wzdkzy.jpg,47,1495711143.0,,2017-05-25 06:19:03
+"I made the dino game into a pumpkin for Halloween, thought I'd share :)",1329,dpj5t3,https://i.redd.it/p7l2s7zectv31.jpg,15,1572528828.0,,2019-10-31 08:33:48
+Google to buy Fossil smartwatch tech for $40 million,1324,ah0gu6,https://www.cnbc.com/2019/01/17/google-to-buy-fossil-smartwatch-tech-for-40-million.html,143,1547776790.0,,2019-01-17 19:59:50
+Tired of those Google Image upvote brigades? Here are the top images reddit users try to promote.,1326,5ob5n0,https://i.redd.it/jm73y0cy53ay.png,54,1484606475.0,,2017-01-16 16:41:15
+"Ok Google, I'm impressed...",1329,9qy9x7,https://i.redd.it/b9pvyewix3u11.png,52,1540404270.0,,2018-10-24 13:04:30
+Google introduces Gboard,1328,4j0krt,https://youtu.be/F0vg4HUEIyk,363,1463087211.0,,2016-05-12 16:06:51
+I got Google Fiber installed a few months back. Here are some pictures! [xpost r/geek],1321,1wray5,http://imgur.com/a/rsBxX,241,1391321759.0,,2014-02-02 00:15:59
+"Trying to tell me something, Google?",1325,6i2vfh,https://i.redd.it/slke5n8iqh4z.png,36,1497858269.0,,2017-06-19 02:44:29
+I knew there was a reason I spent so much time adding photos to Google Maps,1322,a63d2j,https://i.redd.it/rnq9qc7yn7421.jpg,130,1544808532.0,,2018-12-14 11:28:52
+"From the bottom of my heart - Thank you, Google #hexcodes",1316,6f85iu,https://i.redd.it/frh8mbkvln1z.png,39,1496621852.0,,2017-06-04 19:17:32
+"I just caugh up this cool-looking plane on Google Earth, a few meters above my village.",1312,c7h48b,https://v.redd.it/ynvsfgb83j731,51,1561944589.0,,2019-06-30 20:29:49
+Adding custom routines to google assistant was a great idea,1319,9t8k20,https://i.redd.it/8xasttecfpv11.jpg,67,1541100328.0,,2018-11-01 14:25:28
+Nice,1313,8c6amu,https://i.imgur.com/HCITYbF.jpg,49,1523723050.0,,2018-04-14 11:24:10
+"Why Yes Google, I have heard that breaking news.",1313,34qa5g,http://imgur.com/x2bNuoa,69,1430699960.0,,2015-05-03 19:39:20
+I JUSR WANNA HEAR THE JOKE GOOGLE,1314,clv5gv,https://i.redd.it/w64oz7s5zee31.jpg,86,1564945458.0,,2019-08-04 14:04:18
+Google calculator now has fraction support 🤔 cool!,1310,cj50w3,https://i.redd.it/s8v387ugk5d31.png,129,1564395709.0,,2019-07-29 05:21:49
+Everytime I search for OnePlus 6,1310,8v1ge0,https://i.redd.it/z532huf3r4711.jpg,41,1530389680.0,,2018-06-30 15:14:40
+I'm a Google fanboy,1303,elkxvt,https://i.redd.it/9634l98jdg941.jpg,304,1578473691.0,,2020-01-08 02:54:51
+Android Instagram post teases dark mode for Google Maps,1310,dfkrnu,https://i.redd.it/5oczps5c1kr31.png,118,1570672748.0,,2019-10-09 20:59:08
+Google just deleted my nearly 10-year-old free & open-source Android app,1308,cwwoll,https://medium.com/@mmathieum/google-just-deleted-my-nearly-10-year-old-free-open-source-android-app-7fbc52edc50a,68,1567086287.0,,2019-08-29 08:44:47
+Google earth be like,1302,eog45q,https://i.redd.it/u9jyjhx7vma41.png,16,1579004129.0,,2020-01-14 06:15:29
+Just a doodle,1309,b8zd0s,https://i.redd.it/90nnd4mhh2q21.jpg,37,1554333885.0,,2019-04-03 18:24:45
+Typical Google app changelog,1309,91wm1x,https://i.imgur.com/pyyfnFd.png,48,1532587037.0,,2018-07-26 01:37:17
+Finally! no more blinding light at night...,1302,dtebx8,https://i.redd.it/eflmsdyhagx31.jpg,78,1573242500.0,,2019-11-08 13:48:20
+Your automatic photo creation is ready,1298,bnoaop,https://i.imgur.com/lLH0yvo.jpg,45,1557691831.0,,2019-05-12 15:10:31
+I feel for you google,1290,58rxgy,http://imgur.com/CrCwt55,45,1477146281.0,,2016-10-22 09:24:41
+Google's night sight never ceases to amaze me,1294,byusj0,https://i.redd.it/0dyyiarzbh331.jpg,36,1560179667.0,,2019-06-10 10:14:27
+Google breaks 18-year Easter Doodle dry spell with a special unique homepage doodle,1291,bfl487,https://i.redd.it/2ww6otxjnjt21.jpg,92,1555849323.0,,2019-04-21 07:22:03
+"Next gen ""Smart TV Kit"" by Google",1290,9ks8wu,https://i.redd.it/u7zcktydwsp11.jpg,118,1538527291.0,,2018-10-02 19:41:31
+My favourite use of Google's AI: Aggregation and automatic summary of comments left on hotel reviews.,1288,99bdul,https://i.redd.it/bey0gda5nlh11.png,48,1534952694.0,,2018-08-22 10:44:54
+Hoooooray! We finally have night mode on Google Chrome!,1287,bholtk,https://i.redd.it/zqc0mnwk2nu21.png,89,1556326509.0,,2019-04-26 19:55:09
+Lens's analysis of this image is either impressive or terrible. I'm not sure which.,1283,a7e229,https://v.redd.it/rtl0fgnq33521,26,1545188623.0,,2018-12-18 21:03:43
+Thanks Google,1284,8wqkal,https://i.imgur.com/t0xLQDm.png,28,1530965987.0,,2018-07-07 07:19:47
+"Google took a shot of my area when river was flooded, and now my bicycle stop is in the water on the map",1279,cduugx,https://i.redd.it/faiamu2ryma31.png,39,1563298797.0,,2019-07-16 12:39:57
+Google Files Go suggests to delete memes,1279,8q2owl,https://i.redd.it/4kjc41fut7311.jpg,56,1528683534.0,,2018-06-10 21:18:54
+Google Doodle based on the picture of the black hole taken using the Event Horizon Telescope,1287,bbwqz0,https://i.redd.it/fadx6dev0lr21.png,27,1554994214.0,,2019-04-11 09:50:14
+Agree,1280,81nptk,https://i.redd.it/yd262pbtgej01.jpg,61,1520087330.0,,2018-03-03 08:28:50
+Rare to see one but ultra rare to see two,1278,8anvof,https://i.redd.it/0hbw2pwu8mq01.jpg,44,1523192112.0,,2018-04-08 07:55:12
+"YouTube, then and now (xpost from /r/privacy)",1281,1mutyo,http://i.imgur.com/wbjCmbt.jpg,94,1379823933.0,,2013-09-21 23:25:33
+Google Maps sent me some neat stickers for being a local guide.,1270,a8li4j,https://i.redd.it/d44834y0iu521.jpg,72,1545520247.0,,2018-12-22 17:10:47
+On Google Maps there is an android logo taking a piss on the Apple logo,1277,33p9rd,"https://www.google.com/maps/place/33%C2%B030'52.5%22N+73%C2%B003'33.2%22E/@33.513787,73.059391,16z/data=!4m2!3m1!1s0x0:0x0?hl=en",111,1429904695.0,,2015-04-24 14:44:55
+Had no idea Google started doing this,1273,2it7xn,http://imgur.com/GnXLSfF,81,1412929838.0,,2014-10-10 03:30:38
+"Thanks, Google!",1272,7wg6xv,https://i.redd.it/k6ybeucuu8f01.jpg,43,1518235622.0,,2018-02-09 22:07:02
+I can't see nothing,1272,bpp85e,https://i.redd.it/olu7lj22uqy21.jpg,26,1558115455.0,,2019-05-17 12:50:55
+This is what the community thinks of Unique passwords,1272,e2arsq,https://i.redd.it/ulomofr3r5141.jpg,76,1574858483.0,,2019-11-27 06:41:23
+Google Lens identifies spider,1269,8wtpvd,https://i.redd.it/s8l465deij811.png,63,1531004207.0,,2018-07-07 17:56:47
+The web interface of Google Keep now has dark mode available.,1261,cibn4r,https://i.redd.it/1n2nh6894rc31.png,113,1564220809.0,,2019-07-27 04:46:49
+Google's first picture for dana carvey is actually david spade,1266,6lwnuf,https://i.redd.it/i9azft9oi88z.png,44,1499490128.0,,2017-07-08 00:02:08
+Google is Reportedly Considering Buying SoundCloud For Around $500 Million,1265,5ly8fn,https://www.thefader.com/2017/01/03/google-is-reportedly-considering-buying-soundcloud-for-around-s500-million,161,1483551304.0,,2017-01-04 11:35:04
+#FiberlsComing..,1262,agl586,https://i.redd.it/8rys74zsesa21.jpg,144,1547674230.0,,2019-01-16 15:30:30
+Google is about to launch a Gmail web redesign,1259,8bhm31,https://techcrunch.com/2018/04/11/google-is-about-to-launch-a-gmail-web-redesign/,234,1523486751.0,,2018-04-11 17:45:51
+"I got a great hotel deal, thanks Google",1251,ewpans,https://i.redd.it/znjennqrk4e41.png,20,1580510080.0,,2020-01-31 16:34:40
+Something isn't right,1256,8r2a2z,https://i.redd.it/ycdvzf8d8z311.jpg,26,1529015304.0,,2018-06-14 17:28:24
+"No, Google, I definitely mean 'an'...",1249,94hfh8,https://i.imgur.com/8emDarq.jpg,42,1533396528.0,,2018-08-04 10:28:48
+Pixel 2 Fabric Case After 1 Year of Use,1250,9pkreh,https://i.redd.it/cd1yx7uls5t11.jpg,101,1539991006.0,,2018-10-19 18:16:46
+My first attempt to use Google Assistant on my iPhone.,1253,6cseeu,https://i.redd.it/l7sbi27ed6zy.jpg,85,1495541443.0,,2017-05-23 07:10:43
+"That was a dumb joke, tell me another one.",1255,6t9xbn,http://i.imgur.com/tIwXsZV.png,9,1502589867.0,,2017-08-12 21:04:27
+My Fire Alarm is Going Off,1249,26fvw6,http://image-store.slidesharecdn.com/3441411a-dc4f-11e3-a956-12313b0ef1fc-large.jpeg,20,1401048665.0,,2014-05-25 15:11:05
+Thank you Google for predicting my drunkenness,1248,6m4hbn,https://i.redd.it/81u4gstdng8z.png,43,1499588504.0,,2017-07-09 03:21:44
+"My friend took this at a Rezz concert in November with his Pixel 3, via night sight. This is also the picture that inspired me to buy my own Pixel 3!",1245,ac35pv,https://i.redd.it/2s2jbfcqp5821.jpg,53,1546527706.0,,2019-01-03 09:01:46
+"I created a chrome extension to redisplay the ""View Image"" and ""Search By Image"" buttons.",1243,7xy1ql,https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk,98,1518808138.0,,2018-02-16 13:08:58
+Found it on r/jokes,1238,c29uvt,https://i.redd.it/67dttfaye7531.png,10,1560931282.0,,2019-06-19 03:01:22
+Apple and Google say goodbye to auto-play video ads,1240,6i9rzo,http://www.cbc.ca/news/technology/auto-play-video-ad-blockers-1.4158663,58,1497938915.0,,2017-06-20 01:08:35

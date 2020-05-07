@@ -1,0 +1,745 @@
+title,score,id,url,comms_num,created,body
+Bull Vs. Bear: Is Blockchain the Future of Ad Tech?,16,8fbe51,https://www.exchangewire.com/blog/2018/04/27/bull-vs-bear-is-blockchain-the-future-of-ad-tech/,0,1524862328.0,
+Adtech podcasts?,11,e4ja52,https://www.reddit.com/r/adtech/comments/e4ja52/adtech_podcasts/,5,1575245295.0,"Are there any decent adtech podcasts people can recommend?  I'm interested in learning more, from the basics to latest trends and have a lot of time in the car where I can listen along.
+
+Thanks!"
+The Data Provider Network,9,dbucrz,https://www.reddit.com/r/adtech/comments/dbucrz/the_data_provider_network/,15,1569969700.0,"**Ever wonder what the data provide network looks like?**
+
+[Data Broker and DMP network Visualization](https://preview.redd.it/0ccd7xipxxp31.png?width=2543&format=png&auto=webp&s=b44656e3ccb00aad1277a4644b2c94a6ffdd301c)
+
+I built a visualization that shows the interconnectedness of data providers and audience management platforms. The network reveals providers that have high/low distribution & connectivity to data management platforms.
+
+**QUICK FACTS**
+
+* Average DMP has 129 data brokers in its platform
+* There are 709 unique data providers found across the top 10 DMPs
+* Average data broker has 761 buyable attributes (not pictured, but have the data)
+* Neustar, V12 (10), and eXelate (9) have the highest connectivity across all DMPs
+* Most commonly available data attributes for each provider are demographic, financial, and personal interest
+* There are 1,289 total connections between data provider and DMP"
+What are the interesting new companies in Ad Tech lately?,7,9zjvne,https://www.reddit.com/r/adtech/comments/9zjvne/what_are_the_interesting_new_companies_in_ad_tech/,1,1542965377.0,"I used to use Hacker News' latest ""Who's Hiring"" posts to search out who was growing in the ad tech space. Though those posts still have nearly a thousand postings a month, lately there are barely any ad tech or advertising industry posts. Same goes for Ad Exchangers job board.   
+
+
+What are the up and coming new companies in the ad tech / ad industry world in the past year or so?  "
+What is Ad Fraud (+10 Strategies to Decrease Your Risk),5,9wzc5k,https://learn.g2crowd.com/ad-fraud,2,1542224277.0,
+Blockchain that supports Adtech and Martech convergence,7,7c3ewl,https://medium.com/@appcoins/from-ogilvy-to-adtech-programmatic-crm-with-appcoins-5bff8de9834c,0,1510371365.0,
+Main trends revealed at Programmatic I/O,7,7bl4wh,https://www.reddit.com/r/adtech/comments/7bl4wh/main_trends_revealed_at_programmatic_io/,0,1510174617.0,"Moving forward in adtech, you should pay attention to these trends emphasised by industry influencers at the Programmatic I/O Conference organised by AdExchanger: 
+
+1. digital media usage is driven by mobile apps ($53.4B will be spent on in-app ads by 2020)
+2. marketers need to understand multichannel audience targeting
+3. mobile native ads provide the best user experience (Native ads will make up over half of ad spend this year)
+4. the IAB universal measurement SDK to reduce pub latency issues
+5. Supply Path Optimization = getting the lowest CPM, at the lowest fees, and best access, to get the best eCPM
+
+Understanding developments in the advertising scene and following trends can help you to harness your potential, whether a publisher, an ad network or an advertiser.
+
+You can read more details here: https://www.vi.ai/the-top-5-talking-points-from-programmatic-io/?utm_source=reddit&utm_medium=Forums&utm_campaign=Sal%20blogpost
+"
+Mass Network Looks To Bring a Universal Bitcoin-Based Solution to Online Advertising.,7,5385ls,https://mass.network/,0,1474161793.0,
+Grindr Spoofing CTV Traffic,7,euxbxv,https://www.reddit.com/r/adtech/comments/euxbxv/grindr_spoofing_ctv_traffic/,1,1580199624.0,"Source: [http://blog.pixalate.com/dicaprio-ott-ctv-ad-fraud-scheme-grindr-mobile-app?utm\_campaign=OTT&utm\_medium=email&\_hsenc=p2ANqtz--ScdU-rynFSFCXg9ciu3oujgZGD14PM1B6nu6Ujj0dx4ZAcZP1uOJIZq04ScIuxhKLpbvrafvanH4esVUm7mFPsI60hA&\_hsmi=82491723&utm\_source=hs\_email&utm\_content=82491723&hsCtaTracking=5872b64b-e645-4cb7-be2d-1cbc00078aa1%7C1a9e8a3a-a2ba-4089-bac8-c8da73a04689](http://blog.pixalate.com/dicaprio-ott-ctv-ad-fraud-scheme-grindr-mobile-app?utm_campaign=OTT&utm_medium=email&_hsenc=p2ANqtz--ScdU-rynFSFCXg9ciu3oujgZGD14PM1B6nu6Ujj0dx4ZAcZP1uOJIZq04ScIuxhKLpbvrafvanH4esVUm7mFPsI60hA&_hsmi=82491723&utm_source=hs_email&utm_content=82491723&hsCtaTracking=5872b64b-e645-4cb7-be2d-1cbc00078aa1%7C1a9e8a3a-a2ba-4089-bac8-c8da73a04689)
+
+&#x200B;
+
+Interesting investigation into the specific scripts being ran to spoof Roku traffic in the background of Grindr mobile app. Initially though SSAI fraud was the main concern for CTV environment but I guess it makes sense for cross-device spoofing when CTV CPMs are so lucrative."
+Five Reasons Why MediaMath Could Buy Rubicon Project (And Two Reasons It Won’t) | AdExchanger,6,8zuq7f,https://adexchanger.com/platforms/five-reasons-why-mediamath-could-buy-rubicon-project-and-two-reasons-it-wont/,0,1531942769.0,
+MediaMath's ground-breaking new paper on causal ad-effectiveness measurement,6,697id8,https://www.reddit.com/r/adtech/comments/697id8/mediamaths_groundbreaking_new_paper_on_causal/,0,1493933565.0,"https://arxiv.org/abs/1705.00634
+
+Abstract:
+
+The problem of measuring the true incremental effectiveness of a digital advertising campaign is of increasing importance to marketers. With a large and increasing percentage of digital advertising delivered via Demand-Side-Platforms (DSPs) executing campaigns via Real-Time-Bidding (RTB) auctions and programmatic approaches, a measurement solution that satisfies both advertiser concerns and the constraints of a DSP is of particular interest. 
+
+MediaMath (a DSP) has developed the first practical, statistically sound randomization-based methodology for causal ad effectiveness (or Ad Lift) measurement by a DSP (or similar digital advertising execution system that may not have full control over the advertising transaction mechanisms). We describe our solution and establish its soundness within the causal framework of counterfactuals and potential outcomes, and present a Gibbs-sampling procedure for estimating confidence intervals around the estimated Ad Lift. We also address practical complications (unique to the digital advertising setting) that stem from the fact that digital advertising is targeted and measured via identifiers (e.g., cookies, mobile advertising IDs) that may not be stable over time. One such complication is the repeated occurrence of identifiers, leading to interference among observations. Another is due to the possibility of multiple identifiers being associated with the same consumer, leading to ""contamination"" with some of their identifiers being assigned to the Treatment group and others to the Control group. Complications such as these have severely impaired previous efforts to derive accurate measurements of lift in practice. 
+
+In contrast to a few other papers on the subject, this paper has an expository aim as well, and provides a rigorous, self-contained, and readily-implementable treatment of all relevant concepts."
+"Monthly Ad Ops & Ad Tech Mixer, Berlin",6,ela7h4,https://www.reddit.com/r/adtech/comments/ela7h4/monthly_ad_ops_ad_tech_mixer_berlin/,0,1578424319.0,"RSVP here: [https://www.meetup.com/beers-adops-adtech-berlin/events/267609016/](https://www.meetup.com/beers-adops-adtech-berlin/events/267609016/) 
+
+Come join us for our monthly gathering of ad ops and ad tech professionals. This is a great opportunity to network, chat about things that you're working on or challenges you're facing, and to discuss the latest trends in the market. Bring yourself, business cards, and all your ad ops and ad tech friends!  
+
+
+Want to learn more about our event series? Check out: [https://www.beersadopsadtech.com/](https://www.beersadopsadtech.com/)  
+
+
+Who should attend?  
+
+
+1. Ad Ops and Ad Sales Folks - If you manage an ad stack and yield for a publisher, broadcaster, or game studio or you're out there pitching advertisers on a direct deal for your inventory, then this meetup is right up your alley.  
+
+
+2. Ad Tech - If you work for an SSP, DSP, a measurement or verification company, or you're working on the latest piece of ad tech, then come on down!  
+
+
+3. Agencies and Advertisers - It's important to understand both sides of the business! So if you work for an ad agency and want to better understand how publishers think, then you should give this meetup a try.  
+
+
+4. Newbies - Interested in learning more about ad ops or ad tech? We'd love to have you and we'd happy to show you the ropes!"
+New to adtech,5,bggiv4,https://www.reddit.com/r/adtech/comments/bggiv4/new_to_adtech/,3,1556055731.0,"Hi, I just recently scored a position as account manager and business developer at an ad exchange. I previously had a couple of years of experience working at an ad network on CPI campaigns, the ad buying was almost always just rebrokered network traffic and most of the time I was dealing with direct advertisers. So in this new position I will be working on CPM campaigns and dealing with SSPs, DSPs and other adexchanges. I would like to ask for the people that are more experienced if you could recommend some books or websites where I can learn more about ad exchanges, integrations (endpoints, adm tags, vocabulary) and also what I should expect in this industry, I think the crucial point of my job will be onboarding new demand to the exchange, so if you have any tip you can share, I would greatly appreciate!"
+Frontend vs Backend,4,aiwjq7,https://i.imgur.com/pcK7QkY.jpg,0,1548251238.0,
+'There's just so little trust': Marketers have growing suspicions of kickbacks in ad tech,6,9fjanv,https://digiday.com/marketing/theres-just-little-trust-marketers-growing-suspicious-kickbacks-ad-tech/,2,1536883629.0,
+Report: Adidas suspends Facebook video ad buys over lack of transparency,3,8ixb7o,https://www.marketingdive.com/news/report-adidas-suspends-facebook-video-ad-buys-over-lack-of-transparency/523106/,1,1526173010.0,
+Over a year out from P&G’s ultimatum: Are brands any safer? Is programmatic ad buying any more transparent?,5,7zarhr,https://martechtoday.com/year-pgs-ultimatum-brands-safer-210718,3,1519289602.0,
+The Great AdTech Washing Machine,5,78ej1g,https://www.youtube.com/watch?v=zB7usk9qsQ0&utm_source=reddit&utm_medium=Forums&utm_campaign=adtechvid,0,1508864585.0,
+How Machine Learning is Taking Over Online Advertising,5,6hekn8,http://www.huffingtonpost.com/entry/how-machine-learning-is-taking-over-online-advertising_us_59378051e4b04ff0c46682dc,1,1497557049.0,
+The value of applying artificial intelligence in display advertising,5,6hei5o,https://martechtoday.com/value-applying-artificial-intelligence-display-advertising-199306,0,1497556123.0,
+Why is server-side ad technology not a thing?,5,68tqgi,https://www.reddit.com/r/adtech/comments/68tqgi/why_is_serverside_ad_technology_not_a_thing/,3,1493767099.0,Can anyone explain why server-side ad technology does not exist?You'd think it would have some utility since it could potentially be used to evade ad blockers.
+How to win back advertisers in the age of platforms,5,5yp0pr,http://www.fipp.com/news/opinion/democratisation-native-advertising,0,1489211622.0,
+"The 15 Best Resources For Publishers, AdTech, Marketers, & AdOps Pros",5,5q2wcq,http://blog.imonomy.com/the-15-best-resources-publishers-and-digital-ad-pros-should-follow/?utm_source=reddit,0,1485376101.0,
+What is the worst thing about your Ad Tech solution?,3,dvmm3m,https://www.reddit.com/r/adtech/comments/dvmm3m/what_is_the_worst_thing_about_your_ad_tech/,2,1573649394.0,I work for a smaller scale media agency and we are considering adopting an ad tech solution. I was curious what are everyone's biggest pain points with ad tech?
+Question about Vayg.com,5,ckabs4,https://www.reddit.com/r/adtech/comments/ckabs4/question_about_vaygcom/,5,1564617574.0,I was recently contacted by [Vayg.com](https://Vayg.com) asking to rent a subdomain on a website I own. Can anyone explain why they would want to rent a subdomain? Are they doing something fishy that could get my website banned by advertisers?
+"We had a number of questions about the hack demo, so here's a quick explanation of what we did. Note none of these exploit are particularly savvy or new, what IS new is using an ad tool to do them in about 10 minutes to illustrate how big of a concern ad tech/ad threat is becoming.",3,b6bcpy,https://v.redd.it/orxlf84rqqo21,0,1553757492.0,
+"Sales: First off, I want to thank the rockstars in Ops who flawlessly delivered this campaign",4,aldg20,https://www.reddit.com/r/adtech/comments/aldg20/sales_first_off_i_want_to_thank_the_rockstars_in/,0,1548889041.0,"[TIGERBYTE FOR A BYTE OF FUN > ADTECH MEMES](https://tigerbyte.blog/)
+
+&#x200B;
+
+https://i.redd.it/ftde9m0prkd21.gif"
+Connected TV Advertising Trends in 2019,4,aknfyo,https://www.reddit.com/r/adtech/comments/aknfyo/connected_tv_advertising_trends_in_2019/,4,1548711133.0,"Hi all!
+
+Here's a recent [article](https://blog.admixer.net/market/trends/connected-tv-advertising-trends-in-2019?utm_source=SM&utm_medium=Reddit) by Admixer Technologies for those who are interested in video advertising:
+
+* 4 connected TV (CTV) ads trends of 2019
+* key stats based on eMarketer, AppNexus, and Digital TV Research data
+* what Admixer brings to the table in terms of CTV advertising"
+What is Click Fraud (+7 Prevention Tips),3,a4toaj,https://learn.g2crowd.com/click-fraud,0,1544456992.0,
+Any other publishers in Europe notice a downturn in ad revenue?,4,8r9dyr,https://www.reddit.com/r/adtech/comments/8r9dyr/any_other_publishers_in_europe_notice_a_downturn/,0,1529080300.0,[GDPR hits Johnston Press Group Revenues](https://www.compliancejunction.com/gdpr-hits-johnston-press-group-revenues/)
+When google use GDPR to dominate the market ads,6,8nrtef,https://i.redd.it/tc9qkx004e111.png,0,1527887982.0,
+Anyone hurt by FB removing 3rd party access?,5,8b89p0,https://www.reddit.com/r/adtech/comments/8b89p0/anyone_hurt_by_fb_removing_3rd_party_access/,0,1523401842.0,Basically what the title asks.  Was anyone plugged into the FB API that was shut down due to Cambridge Analytica scandal? 
+Can Blockchain Technology Solve Ad-Fraud Problems?,4,811p3s,http://www.odwyerpr.com/story/public/10263/2018-02-28/blockchain-will-bring-transparency-digital-advertising.html,5,1519898301.0,
+Facebook new rules and regulations for pubs,3,7o3cnn,https://digiday.com/media/facebook-encouraged-us-not-pivot-video-confessions-audience-development-head/,3,1515105536.0,
+An article about the evolution of ad mediation technology,4,7jkoss,https://medium.com/@Appodeal/the-ascent-of-ad-mediation-how-ad-networks-should-adapt-to-remain-competitive-f249510d793d,0,1513213972.0,
+Freedom from the feed - How we plan to help publishers beat the duopoly and win the next wave of ad dollars,4,753kx7,https://medium.com/@dnlbtlr/freedom-from-the-feed-how-we-want-to-help-publishers-beat-the-duopoly-and-win-the-next-wave-of-ad-469376782f20,0,1507517561.0,
+Good list of Linkedin influencers for adtech pros,4,711lzy,https://www.vi.ai/11-linkedin-influencers-everyone-in-adtech-must-follow/,0,1505838447.0,
+A blow for mobile advertising: The next version of Safari will let users block ads on iPhones and iPads,3,39gdic,http://www.niemanlab.org/2015/06/a-blow-for-mobile-advertising-the-next-version-of-safari-will-let-users-block-ads-on-iphones-and-ipads/,0,1434064872.0,
+"Admixer Partner: An Interview with Li Ping, Newborn Town",3,d9ihbv,https://www.reddit.com/r/adtech/comments/d9ihbv/admixer_partner_an_interview_with_li_ping_newborn/,0,1569527093.0,"Hi community! Here is an interview with Li Ping, a co-founder at NewBorn Town, AI-based global information distribution platform. Check out the impact of AI technology on programmatic advertising:  https://blog.admixer.net/admixer/admixer-partner-an-interview-with-li-ping-newborn-town/?utm\_source=Blog&utm\_medium=reddit&utm\_campaign=reddit&utm\_content=Interview 
+
+You are welcome to leave comments!"
+A beginner-please suggest something for me to read and know more about AdTech,3,cs8di8,https://www.reddit.com/r/adtech/comments/cs8di8/a_beginnerplease_suggest_something_for_me_to_read/,7,1566197322.0,"Hello everyone,
+
+I am new to this field, I work as a software developer(data developer). I am interested in the AdTech space. Can you suggest me some materials or books to get some idea on Adtech?
+
+Thanks."
+WebRTC Adxploits Over DTLS-UDP: The Latest In A Series of Elegant Exploits,3,bf7y3f,https://devcondetect.com/blog/2019/4/18/webrtcnbspadxploitsnbspover-dtls-udp-the-latestnbspinnbspa-series-ofnbspelegant-exploitsnbsp,0,1555759504.0,
+Who can bring tectonic shifts to brand safety and transparency in advertising?,3,b8vc2o,https://www.reddit.com/r/adtech/comments/b8vc2o/who_can_bring_tectonic_shifts_to_brand_safety_and/,1,1554309171.0,"Hi there!
+
+Last month our team was glad to participate and exhibit at ad:tech conference in New Delhi for the first time.
+
+Also, one of c-level managers joined a panel discussion about brand safety and transparency. Much has been said, and most interestingly - from all the perspectives: advertiser's, agency's, and from the perspective of ad tech vendor.Here are insights out of that panel, published in Ad Age India this morning: [https://blog.admixer.net/advertiser/transparency-brand-safety-keeps-advertisers-night/?utm\_source=reddit&utm\_medium=reddit&utm\_content=blog%20post%20brand%20safety%20and%20transparency](https://blog.admixer.net/advertiser/transparency-brand-safety-keeps-advertisers-night/?utm_source=reddit&utm_medium=reddit&utm_content=blog%20post%20brand%20safety%20and%20transparency)
+
+A sneak peek: we think, it's advertisers who can bring really significant changes to the whole ad tech industry and culture. Will appreciate your comments and opinions!"
+Will DTC brands keep taking it all?,3,axyyjj,https://www.reddit.com/r/adtech/comments/axyyjj/will_dtc_brands_keep_taking_it_all/,0,1551908602.0,"Hi All! 
+
+Our team - Admixer Technologies - attended IAB annual meeting for partners (IABALM) a couple of weeks ago. 
+
+The insights articulated at the event sound game-changing. Especially, the hot topic of the direct economy. Direct (DTC) brands disrupt not only their industries but also the whole way how advertising is delivered. Here's our retrospective on IABALM 2019: [https://blog.admixer.net/admixer/iab-annual-leadership-meeting-2019-key-takeaways/?utm\_source=reddit&utm\_medium=blog%20post&utm\_campaign=blog%20post&utm\_content=iabalm%202019](https://blog.admixer.net/admixer/iab-annual-leadership-meeting-2019-key-takeaways/?utm_source=reddit&utm_medium=blog%20post&utm_campaign=blog%20post&utm_content=iabalm%202019)  
+
+Do you think it's really DTC brands' time and their market share will keep increasing, stealing it from major brands?
+
+&#x200B;"
+Rumor: OpenX layoff today ~40% of all staff,3,a7eyxt,https://www.reddit.com/r/adtech/comments/a7eyxt/rumor_openx_layoff_today_40_of_all_staff/,4,1545194296.0,
+What are your thoughts on cognitive ads? Those banner/display ads with chatbots. Do you think they will actually increase engagement?,4,9r5vrj,https://www.reddit.com/r/adtech/comments/9r5vrj/what_are_your_thoughts_on_cognitive_ads_those/,0,1540460329.0,"Do you think providing a chat interface (option selects and dialogue) wth the artwork of a banner ad will increase people's willingness to click on banner ads?
+
+Banner ad CTR very low, around 1%, I believe. Someone correct me if I'm wrong.
+
+If people have opportunity to chat with an ad rather than click to a landing page, do you suspect not CTR, but instead interaction/engagement with ad would go up?"
+Blockchain Naysayers in AdTech: The Real Source of Their Pessimism,2,9h4od3,https://martechseries.com/mts-insights/guest-authors/blockchain-naysayers-the-real-source-of-their-pessimism/,1,1537388653.0,
+Implications ITP 2.0 for Facebook tracking,3,9ewvek,https://www.reddit.com/r/adtech/comments/9ewvek/implications_itp_20_for_facebook_tracking/,1,1536695781.0,"Hi there, 
+
+Since Safari in Safari 12 will introduce the stricter ITP 2.0, I was wondering what implication this will have on post view and post click conversion. Facebook self states that nothing will change compared to ITP 1.1. Does anyone know what will change regarding conversion tracking?"
+GDPR,4,8nj2nr,https://i.redd.it/dbfad3fxg7111.jpg,0,1527807508.0,
+Best conferences for ad tech,3,8ghhje,https://www.reddit.com/r/adtech/comments/8ghhje/best_conferences_for_ad_tech/,2,1525297315.0,"It would be helpful for the community if everyone would share the best conferences to attend in the ad tech space.  Programmatic I/O, Mobile World Congress, Digiday Events, etc.    Some of these events are nothing more than pay to play whereas others have real substance.  What are the best conferences you have attended and why? "
+The arrival of GDPR,3,8eqfic,https://www.youtube.com/watch?v=aTdryDAzYGo,0,1524654689.0,
+Why GDPR will be good for advertising,3,8ek3xx,https://www.mediapost.com/publications/article/316615/gdpr-will-be-good-for-advertising.html?edition=108241/,1,1524602779.0,
+Adtech predictions for 2018,3,7xz6m9,http://www.thedrum.com/news/2018/02/02/transparency-will-be-driven-clients-and-contextual-marketing-will-resurge-takeaways,1,1518821288.0,
+"Thoughts on the future of fraud detection, ad verification and brand safety?",3,7v5idm,https://www.reddit.com/r/adtech/comments/7v5idm/thoughts_on_the_future_of_fraud_detection_ad/,3,1517759218.0,"I think recent events and the current geo-political climate have heightened demand from advertisers for fraud/bot detection and brand safety.
+
+I see big opportunities for companies like DV, IAS & Moat to continue policing the industry.
+
+Do any of you think one will rise to the top based on their product suite?"
+How Blockchain Could Start To Make Waves In Media And Entertainment In 2018,3,7ra91r,https://www.forbes.com/sites/nelsongranados/2018/01/04/what-blockchain-has-in-store-for-media-and-entertainment-in-2018/#39c736a371f4,2,1516316602.0,
+Videology Guarantee,3,7poy31,https://www.reddit.com/r/adtech/comments/7poy31/videology_guarantee/,1,1515714359.0,Anyone have experience with Videology? Interested in how their system can guarantee programmatic delivery. Is this too good to be true? Any experience with the platform under-delivering?
+"Why GDPR Is Good For Online Advertising, Even Ad Tech.",3,7gtpst,https://www.mediapost.com/publications/article/310879/why-gdpr-is-good-for-online-advertising-even-ad-t.html,0,1512145098.0,
+The Future of Digital Advertising Lies In Native Video,3,7f906z,https://www.exchangewire.com/blog/2017/11/24/years-false-starts-true-native-offers-hope-qa-kai-henniges-video-intelligence/#,0,1511574105.0,
+Ad Tech Desperately Needs Data Exchange Standards,3,6pnazr,https://adexchanger.com/data-driven-thinking/ad-tech-desperately-needs-data-exchange-standards/,0,1501095951.0,
+Top 5 Key Areas: Deep Learning in Retail &amp; Advertising,3,68t0ph,https://re-work.co/blog/deep-learning-in-retail-advertising-top-5-key-areas-to-be-impacted,0,1493759450.0,
+Ad targeting on app ad inventory,2,65f0ey,https://www.reddit.com/r/adtech/comments/65f0ey/ad_targeting_on_app_ad_inventory/,1,1492230565.0,"Is there a way i can target a particular ad to user who have specific apps installed on their phones.
+
+I want to run the campaign on app ad inventory."
+AdTech trends 2017,3,5pnkpt,http://www.innovecs.com/ideas-portfolio/adtech-trends-2017/,0,1485191503.0,
+"If you worked at Reddit, what would you do if your goal was to make money from advertising?",3,4rlqo0,https://www.reddit.com/r/adtech/comments/4rlqo0/if_you_worked_at_reddit_what_would_you_do_if_your/,4,1467880816.0,
+Technical Resource(s) for Ad Tech,3,402nsb,https://www.reddit.com/r/adtech/comments/402nsb/technical_resources_for_ad_tech/,0,1452310551.0,"Hello /r/AdTech, I'm looking for technical Ad Tech resources. These can be books, sites, forums, lecture series, courses. By 'technical' I mean similar to something an engineer or computer scientist might write up for a colleague. It doesn't have to be inaccessible to laymen.
+
+A good example of accessible technical material is [Clear Code's Blog](http://clearcode.cc/2015/12/cookie-syncing/)"
+LUMA's State of the State 2015 at DMS 15,3,39t65u,http://www.slideshare.net/tkawaja/lumas-state-of-the-state-2015-at-dms-15,0,1434323170.0,
+get line item id of loaded AMP Ads,2,epwy2m,https://www.reddit.com/r/adtech/comments/epwy2m/get_line_item_id_of_loaded_amp_ads/,0,1579273267.0,"Hey everyone,  
+
+
+So, GPT provides a function in its API *getResponseInformation()* that can be used to get info about the loaded ad such as *lineItemId*, advertiserId, campaignId, creativeId, etc. This function when used in tandem with the *SlotRenderEndedEvent* is very useful. However, as far as I know, this is only available for non amp ads.  
+
+
+I'm trying to find a similar function for AMP ads. Does anyone know of any such feature that AMP offers with which I can get atleast the lineItemId of the loaded ad?  
+
+
+P.S.: I'm looking for solutions on client side, in Javascript.  
+
+
+references: 
+
+*getResponseInformation()*  
+[https://developers.google.com/doubleclick-gpt/reference#googletag.events.slotrenderendedevent](https://developers.google.com/doubleclick-gpt/reference#googletag.events.slotrenderendedevent)  
+
+
+*SlotRenderEndedEvent*  
+[https://developers.google.com/doubleclick-gpt/reference#googletag.ResponseInformation](https://developers.google.com/doubleclick-gpt/reference#googletag.ResponseInformation)"
+Question for Traders Outside of the United States: Currency Exchange,2,dytn2n,https://www.reddit.com/r/adtech/comments/dytn2n/question_for_traders_outside_of_the_united_states/,1,1574238251.0,"Specifically, how do users set up PMPs in a local currency that the exchange (AdX, appnexus, etc) converts into USD, that is then in the local currency again in the DSP.
+
+Does TTD, DV360, AAC, etc. use a daily exchange rate feed? Do they charge for this conversion?"
+Yo media planners when’s the last time you thought about quitting your job?,2,dw2vka,https://www.reddit.com/r/adtech/comments/dw2vka/yo_media_planners_whens_the_last_time_you_thought/,2,1573727760.0,I've really been feeling the burnout lately. Anyone else?
+Any consent string / TCF experts here? Need help understanding flows,2,dw24b9,https://www.reddit.com/r/adtech/comments/dw24b9/any_consent_string_tcf_experts_here_need_help/,2,1573724115.0,"Hi All,
+
+I've read all of IAB's documentation, and dozens of other websites, but still need help pulling together a complete picture of how consent is created and flows through the adtech ecosystem.  If it helps, assume we're talking solely about TCF 2.0, and assume we're talking about browsers only.  And assume that I'm using the words ""consent string"" and ""daisy bit"" interchangeably.  
+
+**I think it goes something like this**:  
+
+1. User loads a web page.  A consent banner is generated, and if the user clicks into the site, the user is assumed to have given consent to the collection and processing of data.  
+2. This consent is recorded by the site's consent management platform (CMP), and is stored on CMP servers (and keyed together via a user cookie set by the CMP).  The consent captures the permission obtained by the site, for the user, and includes permissions for each individual adtech vendor.  The consent can later be retrieved via the CMP API.  
+3. The website (publisher) sends out an ad request.  The ad request contains the consent string.  \[Presumably they've retrieved it from the CMP.\] 
+
+**This is where I start to get confused, and here are \[some of\] my questions**:  
+
+1. When a page loads, dozens of pixel/cookie/data sync requests are sent out.  How do they know what is in the consent string?  Where do they get the information?  (E.g., they call the CMP API, or the pub gives it to them via some method?) 
+2. Do the vendors conducting these sync requests also have to share the daisy bit to the vendors with whom they are syncing?  If so, are they passing what the publisher gives them, or are they picking it up directly from the CMP?  
+3. Should every event downstream of the original ad request or sync request contain the same consent string?  Is it replicated verbatim, or grabbed anew with each event?  
+4. If the permission for a specific vendor is NO in the consent string, is the vendor expected NOT to initiate any further data syncs and NOT to drop any further cookies?  
+5. Bonus points:  have you ever seen a company manipulate a consent string, and if so, what happened?  
+
+I'd be thrilled if there were some sort of data flow or process diagram on the interwebs, but I'm not finding one.  
+
+Any help here -- even partial answers -- are most welcome.  
+
+Thanks."
+Question regarding user sync pixels and header bidding,2,czgxzx,https://www.reddit.com/r/adtech/comments/czgxzx/question_regarding_user_sync_pixels_and_header/,2,1567606216.0,"Hi. I'm working at a medium sized adtech company where we provide a header bidding solution for our clients. I've seen several pages recently where the publisher is fetching user sync cookies at page load, before any bids are sent (prebid.js). Is there any real benefit to this? We fire user sync cookies currently after the bid process has run (or at the same time as rendering the ad, basically).
+
+What I'm after is any clarity in to the timing for user-sync pixels to be fired. Thanks!"
+Advice and insights from VC funded AdTech companies at Cannes 2019,2,c56fci,https://medium.com/@socius/advice-and-insights-from-vc-funded-adtech-companies-28ce769166ba,0,1561487296.0,
+Is OpenSSP a reasonable foundation to build an ad network?,2,baw46n,https://www.reddit.com/r/adtech/comments/baw46n/is_openssp_a_reasonable_foundation_to_build_an_ad/,12,1554770880.0,"I'm a developer trying to learn ad technologies. I've been exploring what ad networks are - the various niches they serve, how their APIs are structured, what functionality they're incorporating. It seems to me that ad network tech is essentially an SSP-for-SSPs. Am I on track? Would OpenSSP be a reasonable starting point to fork for building out an ad network? (I'm not really looking to do this, just trying to learn)"
+How Can Achieve Geo-targeting with Maxmind Geopip2 MMDB plugin,2,asn6gx,https://www.reddit.com/r/adtech/comments/asn6gx/how_can_achieve_geotargeting_with_maxmind_geopip2/,0,1550690296.0,"The recent Gen-Z and millennials are so used to location based marketing that they prefer relevant updates on their mobile devices in a particular location or when they search for something on their devices. The behavioral trait behind this is, contextual updates either based on location or preferences create a tailor-made and personalized experience for mobile device users by interpreting their needs and suggesting it before they spew it out. 
+
+&#x200B;
+
+Focus on Geo location:
+
+Add in geolocation, and you get geo-targeting, a technique that has proved highly beneficial to regional businesses, especially restaurants, retail shops, and service providers.  
+
+&#x200B;
+
+Geo-targeting with Maxmind Geopip2 MMDB plugin
+
+Revive Adserver Mods offers an exclusive [**Maxmind GeoIP2 MMDB plugin for Revive Adserver**](https://www.reviveadservermod.com/) that can be used to deliver the advertisement in the targeted countries, state, city, postal code, latitude and longitude. With the help of this plugin the advertisers can minimize their cost of advertising and also increase the click through rate as the audience are more relevant and pertain to a specific location. 
+
+&#x200B;
+
+Target domestic audience who fall under a defined geo fence 
+
+&#x200B;
+
+* Ability to choose the desired geographic location to run ad campaigns
+* Geo MMDB databases are fast and highly accurate
+* Get the optimal ROI for your ad campaign
+* Considerable increase in the ad click ratio
+* Maxmind GeoIP DB can be easily added and integrated with the Revive Adserver"
+How Ad-tech Outfit Criteo Is Trying to Navigate GDPR,2,arf6iw,https://www.adweek.com/programmatic/how-criteo-is-trying-to-navigate-gdpr/,1,1550393133.0,
+Consolidation continues – Thirdpresence acquires Flowplayer,2,aq5sub,https://mobilemarketingmagazine.com/thirdpresence-acquires-flowplayer-to-help-advertisers-achieve-brand-objectives-,0,1550087573.0,
+Visual Dashboard query - Tableau vs Google Data Studio,2,apcps7,https://www.reddit.com/r/adtech/comments/apcps7/visual_dashboard_query_tableau_vs_google_data/,5,1549889545.0,"Does anyone have feedback on data visualisation tools such as tableau or data studio? Which solution works best, which has more flexibility and which would you recommend we use as a tool to build client dashboards"
+Cross-Device Sequential Messaging,2,al1ysg,https://www.reddit.com/r/adtech/comments/al1ysg/crossdevice_sequential_messaging/,0,1548809619.0,"Does anyone know of any partners- probably ad servers- who can run sequential messaging across multiple devices?  Extra points for including things like CTV, audio, and Facebook.  I'm imagining something like a Flashtalking but my understanding is that they don't offer this kind of cross-platform targeting. I don't want to buy everything through them, just serve up the ads sequentially within my buy through them.  Any insight would be much appreciated!!"
+What is The Future of Digital Marketing and What are its Benefits?,2,akx5y5,https://byvdigital.blogspot.com/2019/01/what-is-future-of-digital-marketing-and.html,3,1548771035.0,
+"The What, Why, and How of the AdTech",2,9xn6xi,https://theappsolutions.com/blog/development/what-why-how-adtech/,0,1542411395.0,
+Denmark-Based Ad-Tech Company Adform Seeks to Raise Over $100 Million With IPO Filing,2,9un3uo,https://www.adweek.com/programmatic/denmark-based-ad-tech-company-adform-seeks-to-raise-over-100-million-with-ipo-filing/,1,1541527392.0,
+A tool to re-create ads in multiple languages easily,2,9oxjh8,https://www.imgtranslate.com,0,1539802246.0,
+The 2018 Summer Of Data | AdExchanger,2,9h4ozy,https://adexchanger.com/data-driven-thinking/the-2018-summer-of-data/,1,1537388796.0,
+AMA... amazon media analytics?,2,9eum19,https://www.reddit.com/r/adtech/comments/9eum19/ama_amazon_media_analytics/,0,1536670841.0,"Anyone has experience with using this Amazon platform? It records mobile app usage, installs... I can’t find any information on this platform online!"
+Dynamic Creative Asset Rendering,2,9cmjdf,https://www.reddit.com/r/adtech/comments/9cmjdf/dynamic_creative_asset_rendering/,1,1536018564.0,"Hey AdTech folks,
+
+&#x200B;
+
+I'm really interested in Dynamic Creative and while I'm familiar with platforms like Thunder, Adacado, Flashtalking, etc., I'm looking for a tool that simple creates the assets so they can be manually uploaded into media platforms like GDN, YouTube, etc.
+
+&#x200B;
+
+So instead of the ad-tech chain going: \[1,000 Creative + DCO > 1 DCO Ad Tag > 1 Media Placement\].
+
+**I'd like it to be: \[1,000 Creative > 1,000 Ad Tags > 1,000 Media Placement\]**
+
+&#x200B;
+
+Perhaps there is an Adobe Photoshop plugin that simply rendered all versions for Display? Same with Adobe After Effects for Video?
+
+&#x200B;
+
+Or perhaps there is a program that acts as an intermediary that does this request?
+
+&#x200B;
+
+All the best, thanks,
+
+Dom"
+Company name showing up on display ads?,2,93shnf,https://www.reddit.com/r/adtech/comments/93shnf/company_name_showing_up_on_display_ads/,3,1533182853.0,"I've been noticing Travelers Insurance display ads are dynamically inserting our companies name into their display ads. Can anyone tell me how they're pulling this off? Our work machine browsers clear history and cookies every time they close, so I don't see how it could be that."
+Anyone measuring viewability for Taboola or Outbrain ??? what are their numbers ??,2,91w1uu,https://www.reddit.com/r/adtech/comments/91w1uu/anyone_measuring_viewability_for_taboola_or/,1,1532582946.0,
+How AdBlock Makes Ad Tech Industry Better,2,8y8jgc,https://theappsolutions.com/blog/development/adblock-makes-adtech-better/,0,1531420003.0,
+Experimenting with a lot of different Mobile Ad IOS SDKs - why the heck do we need so many frameworks? (IOS dev related),2,8xdhyh,https://www.reddit.com/r/adtech/comments/8xdhyh/experimenting_with_a_lot_of_different_mobile_ad/,0,1531183673.0,"For the non technical folks, I'm just trying to mess around with some Ad SDKs for IOS. The requirements look like a lot of bloat, so seeking some clarification as to why I need to include like 20+ libraries just to retrieve and display an ad from a server. I'm OK with just moving on, but I do want to get full understanding so I'm not glossing over anything. 
+
+For the more technical.. 
+
+MoPub and A9 SDKs both require a whole crapton of frameworks that look wholly unnecessary that I feel like can be removed/ignored. Probably the same goes for AdMob / DFP, though I'm still junior and learning more about these. 
+
+Mediaplayer, CoreTelephony as an example. Ads (VAST, MRAID, etc) don't have MediaPlayer as a dependency from my understanding last I checked. And I certainly don't need to know about who the user called unless I have malicious intent. 
+
+If I'm just showing an ad, the most I'd really require is maybe the CoreLocation framework. I work closely with another ad network that at most has WebKit.framework and libxml2.2.tbd that need to be included, which seem fair. 
+
+Can somebody help me understand why these might all be 'required' to operate these larger Ad SDKs?
+
+Just curious since I like to keep things minimal and not include them if I don't need really need them. 
+
+If this is the wrong place, can you let me know where would be better? I can post this to IOSdev as well but I figured there was a business case for why these would all be included. "
+GREATER TRANSPARENCY WITH BLOCKCHAIN-ENABLED PROGRAMMATIC ADVERTISING,2,8smlvs,http://rpmadv.com/index.php/2018/06/12/greater-transparency-with-blockchain-enabled-programmatic-advertising/?utm_source=AdaptiveMailer&utm_medium=email&utm_campaign=June%202018&org=364&lvl=1&ite=670&lea=0&ctr=0&par=1&trk,0,1529562364.0,
+A Brand Advertising Restoration Project,2,8o8f31,https://www.linuxjournal.com/content/brand-advertising-restoration-project,0,1528060163.0,
+RPM Agency Leads Majestic Star Casino & Hotel Into Blockchain Campaign,2,8nj3oi,https://www.mediapost.com/publications/article/319901/rpm-agency-leads-majestic-star-casino-hotel-into.html?edition=109320,0,1527807706.0,
+Research shows the effects of contextual video on advertising,2,8jlubk,https://www.vi.ai/the-impact-of-contextual-video-content/?utm_source=reddit&utm_medium=Forums&utm_campaign=lumen,0,1526422095.0,
+The current state of ad tech,2,8b90qx,https://i.redd.it/eqrbc3u2l3r01.jpg,0,1523406915.0,
+Anyone investigating OpenSSP,2,7ulujv,https://www.reddit.com/r/adtech/comments/7ulujv/anyone_investigating_openssp/,3,1517546629.0,I've been asked to check out OpenSSP by my company but I'm not really a java guy (though I am sort of enjoying it)... Anyway looking to see if anyone is working on it / with it and might be willing to discuss what you're doing with it.  
+Advertising Committees?,2,7pc4v6,https://www.reddit.com/r/adtech/comments/7pc4v6/advertising_committees/,2,1515577112.0,"Hey Reddit, 
+
+Spotted a bunch of different advertising committees -- anyone here familiar with them/ know if they apply to online publishers? 
+
+IAB (Interactive Ad Bureau)
+TAG (Trustworthy Accountability Group)
+AAF (American Advertising Federation)
+ANA (Association of National Advertisers)
+DAA (Digital Advertising Alliance)
+NAI (Network Advertising Initiative)
+
+
+As always -- huge thanks!"
+How to pivot to video - winning advice for text-based publishers,2,7o3czs,https://www.vi.ai/why-publishers-must-pivot-to-video-and-how-to-do-it-right/?utm_source=reddit&utm_medium=Forums&utm_campaign=pivot%20to%20video,1,1515105621.0,
+"As a recent graduate, what skills/courses should I learn to get into programmatic advertising/marketing?",2,7ax4m7,https://www.reddit.com/r/adtech/comments/7ax4m7/as_a_recent_graduate_what_skillscourses_should_i/,8,1509911105.0,
+The Death Of The Banner Ad - why display is dying and native advertising is thriving.,2,6qyzln,http://www.brandquarterly.com/death-banner-ad,2,1501647703.0,
+BitClave Targets US$550B Ads Market With New Blockchain-Powered Search Engine,2,6pu7my,https://coinjournal.net/bitclave-targets-us550b-ads-market-new-blockchain-powered-search-engine/,0,1501166639.0,
+Adtech company MediaMath secures $175M credit facility,2,6ikbdp,https://techcrunch.com/2017/06/06/mediamath-debt-financing/,0,1498059090.0,
+New York Times CEO Calls For Ad Tech Reform,2,6ik9vy,https://adexchanger.com/publishers/new-york-times-ceo-inveighs-skeefo-ad-tech-despite-recent-strides/,2,1498058424.0,
+"Advertising giants leave little room for adtech startups, and VCs are noticing",2,6hen7u,http://go.refr.io/advertising-giants-leave-little-room-for-adtech-startups-and-vcs-are-noticing#https://techcrunch.com/2017/06/13/advertising-giants-leave-little-room-for-adtech-startups-and-vcs-are-noticing/,0,1497557933.0,
+Making money of a blog with 1M traffic/month,2,6ew7v1,https://www.reddit.com/r/adtech/comments/6ew7v1/making_money_of_a_blog_with_1m_trafficmonth/,4,1496457053.0,"Its a blogspot site, already applied Adsense to it. But I think there should be more ways to put more ad widgets, or maximise adsense's profit (not by traffic increase)? 
+
+I heard that Blogspot is owned by Google, using other ad ad system is forbidden. Did some googling and all i found was the tutorials to install Adsense(which i already did). Thoughts?"
+10 Ways Publishers And Advertisers Can Keep Up With Facebook,2,5myf69,http://blog.imonomy.com/10-ways-publishers-can-outpace-facebook/?utm_source=reddit,0,1484006295.0,
+RIP: The publishers that will no longer be with us in 2017,2,5k8lya,http://digiday.com/publishers/memoriam-publishers-lost-2016/,0,1482706459.0,
+Best Ad Server for Small Retail Shop?,2,5fr8l2,https://www.reddit.com/r/adtech/comments/5fr8l2/best_ad_server_for_small_retail_shop/,0,1480559376.0,"I have a lot of experience with enterprise ad serving (DFA, Atlas, etc) but not on small business. Need a hosted solution with last touch attribution. Impression level logs would be nice but not required. I'm looking into AdButler, AdColt, and iOi -- any advice on which are quick to implement and easy to manage? Cost isn't a major concern since the volume will be pretty low, but aiming to avoid setup fees/high minimums.
+
+Thanks!"
+"Bitmedia.io introduces anti-fraud capabilities, investigates blockchain applications for ad stats",2,56cvba,https://www.reddit.com/r/adtech/comments/56cvba/bitmediaio_introduces_antifraud_capabilities/,0,1475893815.0,"PRESS RELEASE
+For Immediate Release
+
+Bitmedia.io ups fraud detection abilities, researching decentralised blockchain applications for ad sector
+Major update to BitMedia Bitcoin denominated Advertising Platform deployed giving advertisers click and impression traffic quality confidence by default
+
+Bitmedia.io, the EU based bitcoin advertising network, announces the deployment of upgraded anti-fraud technology into their ad server, an upgraded ad management system, and improved traffic quality control tools. This major upgrade gives cryptocurrency advertisers looking to target the sector increased confidence across CPM and CPC campaigns. As the industry evolves to become more centralised and regulated, marketing and finance staff and their media buyers across the world require more reliance over how and where their funds are being spent in an environment where less than half of impressions on advertising networks can be served to non-human and fraudulent traffic sources. 
+
+This week’s upgrade empowers advertisers with an upgraded self-service ad management system featuring brand new traffic quality and control tools. It also paves the way for the  introduction of non-cryptocurrency payment options later in the year. By partnering with Enbrite.ly and others, the Bitmedia.io platform adds advanced impression and click level fraud-detection for advertisers by default, saving the need to advertisers to pay for this separately to monitor campaigns run on the network.
+
+Bitmedia aims to enable advertisers to have a deregulated platform with advanced traffic and quality control tools, and is using its $100,000 investment secured last year into researching different approaches where the blockchain can solve problems within the advertising industry. They are particularly focusing on blockchain applications for providing tamper-proof advertising data.
+
+Since launching in 2014, Bitmedia.io has signed up over 2,000 specialist bitcoin publishers across the web, and have attracted over 600 advertisers to the network. These include Betcoin.tm who stated “The interface, conversion rates and overall value are superior to other networks”  and PlusBitcoin who stated “BitMedia provides the best targeting options, good user experience and great reports”
+
+Advertisers or media buyers interested in running campaigns on bitmedia can sign up at https://bitmedia.io/bitcoin-advertising, with deposits credited after 3 confirmations. BitMedia offers instant bonuses for new and existing advertisers. The bonus size depends on the topup amount. Bitcoin Publishers can sign up at https://bitmedia.io or you can follow BitMedia at  https://www.facebook.com/bitmedia.io and https://twitter.com/bitmedia_io
+-- END RELEASE
+
+Notes for Editors
+For further information on this release, please contact Donna Peterson at donna@bitmedia.io or Jamie McCormick on jamie@bitcoinmarketingteam.com or by phone at +353 1 4376904.
+A zip file containing logos and assets is available at http://bitcoinmarketingteam.com/wp-content/uploads/2016/10/bitmedia-october2016-pr-assets.zip 
+
+About Bitmedia
+BitMedia.IO is a bitcoin advertising network launched in 2014. We have created this project to help bitcoin businesses go public, to expand the audience of crypto projects and to promote the ideas of decentralization. 
+Our mission is to transform advertising market by reducing the level of monopolization and making it more decentralized and transparent instead. BitMedia aims to become a universal tool for media buying and a convenient platform that would not only connect publishers and advertisers but would also provide them with cutting edge and affordable traffic control features.
+Find out more at https://bitmedia.io/
+"
+Media.net acquired for $900M in mega ad-tech deal,2,4z0jpc,https://techcrunch.com/2016/08/22/media-net-acquired-for-900m-in-mega-ad-tech-deal/,2,1471901696.0,
+Winter Is Coming To Ad Tech: Obliteration Not Consolidation | AdExchanger,2,4y8vdw,http://adexchanger.com/data-driven-thinking/winter-coming-ad-tech-obliteration-not-consolidation/,2,1471504914.0,
+Google <> DSP - Partnership Advantages,2,4w7q8p,https://www.reddit.com/r/adtech/comments/4w7q8p/google_dsp_partnership_advantages/,0,1470385343.0,"Hi all, I work in a big DSP and we've been contacted by Google. We are already integrated with ADX. They offered us to make a s2s integration with Adwords. The thing is I don't completely understand the benefit of this towards OUR clients. I mean: our clients already have their in-house Adwords campaigns and I don't see the advantage we'll have towards them. The excuse why WE should run, manage and access to Adword's Network/Inventory instead of them. (AFAIK - The difference between ADword's network and ADX network is that Adwords reaches search, youtube, mobileweb and google products/sites)
+If anyone knows a walkaround I can make with them to gain lavarage towards our own clients, it'd be great. =)"
+Click Through Rate = Legal Alcohol Levels . . .,2,4ncojd,https://www.reddit.com/r/adtech/comments/4ncojd/click_through_rate_legal_alcohol_levels/,0,1465531941.0,"Doing research on if LinkedIn ads are right for our B2B and came across this interesting comparative . . . 
+
+""Click through rates vary. LinkedIn pegs a good clickthrough rate at 0.025%, but you can do better with laser-targeted ads featuring compelling copy and a vibrant photo.
+
+A good rule of thumb is to shoot for a number that would make a pleasant blood alcohol content after a good night out: if you can achieve better than .08% to 0.10% you’re in very good shape."""
+HTML5 VPAID examples?,2,4n83lu,https://www.reddit.com/r/adtech/comments/4n83lu/html5_vpaid_examples/,1,1465458141.0,"Has anyone ever seen a HTML5 VPAID ad with video being overlaid with elements like images or text?
+
+The reason I am asking is that Flash VPAID used to be the perfect tool for dynamic VPAID. A brand could overlay the closest store location during the video or even change the CTA. I'm wondering if HTML5 VPAID will work on other devices the same way. I still haven't seen a publisher video player that has accomplished this on mobile.
+
+Has anyone seen any working examples in mobile yet? "
+So...is how Xaxis sells inventory to its clients any different to how C-D-O mortgages were pushed in the '0s? DISCUSS. Right now.,2,4ld2ww,https://www.reddit.com/r/adtech/comments/4ld2ww/sois_how_xaxis_sells_inventory_to_its_clients_any/,2,1464415484.0,
+The Growing Problem of Video Ad Blocking and What Publishers are Doing About It,2,4l6fn9,https://vertamedia.com/blog/the-growing-problem-of-video-ad-blocking-and-what-publishers-are-doing-about-it/,1,1464312401.0,
+Do people use embeded Youtube videos to advertise on 3rd party websites?,2,4jlmnf,https://www.reddit.com/r/adtech/comments/4jlmnf/do_people_use_embeded_youtube_videos_to_advertise/,2,1463440647.0,"Specifically, do ad servers provide such services?
+
+Trying to Google my question but am only getting responses on advertising *within* youtube videos."
+Is there a tool to aggregate and analyze ad campaigns?,2,4fcbbb,https://www.reddit.com/r/adtech/comments/4fcbbb/is_there_a_tool_to_aggregate_and_analyze_ad/,4,1461021301.0,"I'm managing ads across couple of channels (adword, fb, linkedin). Is there a tool that let you connect the accounts, aggregate the stats and compare it side by side?"
+Value of PMD,2,48s2vi,https://www.reddit.com/r/adtech/comments/48s2vi/value_of_pmd/,0,1457042337.0,Hey all. So I am a digital vet but a Facebook newbie. Recently switched to an in-house digital team only to find that they were using ads manager/power editor rather than a PMD. Anyone have any thoughts on this?
+For anyone that has struggled to programmatically access DFP APIs,2,3sglad,http://engineering.chartbeat.com/2015/11/11/parselmouth/,0,1447308686.0,
+Conceptualizing MoPub Mediation Ad Calls,2,3r5dc7,https://www.reddit.com/r/adtech/comments/3r5dc7/conceptualizing_mopub_mediation_ad_calls/,0,1446453305.0,"Let's say an Android app is using MoPub to mediate interstitial ads between 3 ad networks (InMobi, Chartboost, and AdColony). When it's time to serve that user and ad, does the flow go something like: 1) Ad request goes to MoPub, 2) MoPub checks which network the request should go to based on the waterfall the publisher set on MoPub's UI, 3) MoPub shoots the ad request to the appropriate network, 4) the network serves the appropriate ad?
+
+If this is the right flow, does that mean that the two networks that were not chose to serve the ad would have no technical indication that an ad was ever requested by the client? "
+Ad Tech Review - A Story of Consolidation,2,3fwctj,https://www.linkedin.com/pulse/adtech-review-story-consolidation-add-tech-norman-brodeur?trk=prof-post,1,1438824432.0,
+AppNexus launches the age of bring-your-own-algorithms,2,39apu7,http://venturebeat.com/2015/06/08/appnexus-launches-the-age-of-bring-your-own-algorithms-for-ads/,0,1433973139.0,
+TubeMogul not included on Digiday’s Ad Tech IPO list for 2014,2,1tx968,http://adtechtimes.wordpress.com/2013/12/15/tubemogul-not-included-digidays-ad-tech-ipo-list-for-2014/,0,1388322044.0,
+Circumventing ad blocker with proxy pages?,1,ewpn7f,https://www.reddit.com/r/adtech/comments/ewpn7f/circumventing_ad_blocker_with_proxy_pages/,0,1580511656.0, I've been reading about a service that reaches users who have ad-block or similar plugins by creating a proxy page of whatever site they are going to which serves ads off a special ad network. I genuinely don't understand how this works. Can someone explain this to me?
+looking for a free/open source RTB engine,1,eshgdi,https://www.reddit.com/r/adtech/comments/eshgdi/looking_for_a_freeopen_source_rtb_engine/,3,1579752884.0,"I need to implement an internal RTB backend (not just the bidder side). 
+
+Both bid-side and publisher-side are company departments - so we have lots of flexibility on features.
+
+Is there any free or open source package to get started ?"
+Ads + Sustainability,1,ehv8h5,https://www.reddit.com/r/adtech/comments/ehv8h5/ads_sustainability/,0,1577782550.0,Any of you adtech veterans interested in being part of a brain trust to provide feedback on a concept I have in development around merging AdTech and GreenTech?
+Data providers for mobile app,1,e3o9yl,https://www.reddit.com/r/adtech/comments/e3o9yl/data_providers_for_mobile_app/,1,1575104634.0,My client is using a Salesforce dmp and is looking for 3rd party data providers in Australia. Any suggestions which firms have good quality app data with decent reach?
+Data leakage and compliance solutions,1,ditnnv,https://www.reddit.com/r/adops/comments/disgjd/data_leakage_and_compliance_solutions/,0,1571280021.0,
+"Those of you who work in industry, what is a project that would impress you from an entry level candidate?",1,dejtt1,https://www.reddit.com/r/adtech/comments/dejtt1/those_of_you_who_work_in_industry_what_is_a/,8,1570485639.0,"As the title states, I'm looking to enter adtech in a data science or data related role after I have finished my studies. 
+
+What kind of projects are you looking for from prospective employees? 
+
+Thank you."
+Hyperlocal Targeting Advertising Now Available In Admixer.DSP,1,dbu41e,https://www.reddit.com/r/adtech/comments/dbu41e/hyperlocal_targeting_advertising_now_available_in/,0,1569968604.0,"Hello, Reddits!
+
+Here is a  brief piece on the benefits of hyperlocal targeting advertising and description of the principles of how it works. Even though the mechanism isn't new, you might miss it:  https://blog.admixer.net/admixer/hyperlocal-targeting-advertising-in-admixer-dsp/?utm\_source=Blog&utm\_medium=reddit&utm\_campaign=reddit&utm\_content=Article"
+Adtech survey,1,dbd1xt,https://www.reddit.com/r/adtech/comments/dbd1xt/adtech_survey/,0,1569885411.0,"Hi everyone! Myself and a few of my college peers are fielding a survey to better understand the workplace needs and responsibilities of media and marketing professionals, specifically those who work with adtech. 
+
+Can you spare a few minutes to provide your insight? Link here: [https://forms.gle/hEbxCs35xywUCewJ9](https://forms.gle/hEbxCs35xywUCewJ9)"
+Admixer Technologies refines transparency culture with the app-ads.txt and sellers.json,1,d862y0,https://www.reddit.com/r/adtech/comments/d862y0/admixer_technologies_refines_transparency_culture/,0,1569271768.0,Hi community! What do you think about adopting app-ads.txt and sellers.json? Here's a short read we've put together on how demand and supply sides can benefit from adopting these standards: [https://blog.admixer.net/admixer/admixer-technologies-refines-transparency-culture-with-the-app-ads-txt-and-sellers-json/?utm\_source=Blog&utm\_medium=reddit&utm\_campaign=reddit&utm\_content=reddit](https://blog.admixer.net/admixer/admixer-technologies-refines-transparency-culture-with-the-app-ads-txt-and-sellers-json/?utm_source=Blog&utm_medium=reddit&utm_campaign=reddit&utm_content=reddit)
+DMEXCO 2019: Ad Tech Takeaways by Admixer,1,d6uues,https://www.reddit.com/r/adtech/comments/d6uues/dmexco_2019_ad_tech_takeaways_by_admixer/,0,1569014543.0," Hi community!
+
+Last week we visited DMEXCO - Digital Marketing Expo & Conference together with over 1000 martech and adtech exhibitors. Here’s a bit of insights and  takeaways on what's trending and what awaits the industry:  https://blog.admixer.net/admixer/dmexco-2019-ad-tech-takeaways-by-admixer/?utm\_source=reddit&utm\_medium=reddit&utm\_campaign=blog\_post&utm\_content=blog\_post  
+
+If you were there too - will be glad to hear your impressions in a comments!"
+"Admixer Partner: An Interview with Saurabh Bhatia, Chocolate Platform",1,d36ouy,https://www.reddit.com/r/adtech/comments/d36ouy/admixer_partner_an_interview_with_saurabh_bhatia/,0,1568317592.0,"Hi community! 
+
+Here is something interesting for programmatic & media buying experts.
+
+We've talked with Saurabh Bhatia, Co-Founder & CEO at Chocolate Platform, a global programmatic video company, and our partner. Find insights on the video ad landscape, the latest anti-fraud innovations and thoughts about the video market future: [https://blog.admixer.net/admixer/admixer-partner-an-interview-with-saurabh-bhatia-chocolate-platform/?utm\_source=LinkedIn&utm\_medium=LinkedIn&utm\_campaign=Chocolate\_Platform&utm\_content=Interview](https://blog.admixer.net/admixer/admixer-partner-an-interview-with-saurabh-bhatia-chocolate-platform/?utm_source=LinkedIn&utm_medium=LinkedIn&utm_campaign=Chocolate_Platform&utm_content=Interview)
+
+Will be glad to hear your comments!"
+"Interview with Gil Klein, VP Business Development at AcuityAds",1,cw2kpy,https://www.reddit.com/r/adtech/comments/cw2kpy/interview_with_gil_klein_vp_business_development/,0,1566930805.0,"Hey there!
+
+We've talked with AcuityAds, one of the fastest-growing ad tech companies in the North America, about the state of the industry and programmatic, combating ad fraud in mobile space and beyond, about what's trending -  and how the AcuityAds team faces market changes and challenges. Hope, you'll enjoy this read:  [https://blog.admixer.net/admixer/admixer-partner-interview-gil-klein-acuityads/?utm\_source=Reddit&utm\_medium=Reddit&utm\_campaign=Interview\_AcuityAds&utm\_content=Blog\_post](https://blog.admixer.net/admixer/admixer-partner-interview-gil-klein-acuityads/?utm_source=Reddit&utm_medium=Reddit&utm_campaign=Interview_AcuityAds&utm_content=Blog_post)  
+
+As always, you're welcome to share your thoughts!"
+GDPR/CCPA Advice,1,ct79df,https://www.reddit.com/r/adtech/comments/ct79df/gdprccpa_advice/,2,1566368119.0,"Hey guys,
+
+Quick question - what are you doing to get ahead of the CCPA/GDPR laws that are taking effect on December 31? It's my understanding that they are going to cause some serious unrest in the industry, especially the migration from Google DCM to Ads Data Hub? Any advice on how a data consultancy can get out ahead of this issue? Trying to be as prepared as possible when the time comes.
+
+More specifically, I'm looking to understand the following:
+
+1. Will multichannel attribution even be an option after December 31? If so, what steps do I need to take so that I can accurately model across Facebook, Google, Tradedesk, etc.
+2. How are agencies getting ready to adjust frequency optimization? Without insight into how many ads a specific user was targeted with, it seems to me as if agencies and brands are losing a lot of transparency here. Is there a good workaround?"
+How to drive media buying outcomes combining 1st and 2nd party data,1,cpd45o,https://www.reddit.com/r/adtech/comments/cpd45o/how_to_drive_media_buying_outcomes_combining_1st/,0,1565648935.0,"With the continued growth in programmatic from one side and GDPR coming into force from the other, brands experience new challenges in using data for building effective communication with their potential customers.
+
+Existing practices of using data, especially when it comes to 3rd-party data, have significant drawbacks, limiting the full potential of data management tools. The obvious step in this situation is shifting towards the 1st and 2nd-party data, which is more transparent, relevant, and reliable. 
+
+How exactly can brands power up their strategies about audiences targeting and ad spend optimization using 1st and 2nd-party data?  Read in this new article and feel free to share your thoughts: [https://blog.admixer.net/advertiser/drive-media-buying-outcomes-combining-1st-2nd-party-data/?utm\_source=reddit&utm\_medium=reddit&utm\_campaign=1st\_2nd\_party\_data&utm\_content=blog\_post](https://blog.admixer.net/advertiser/drive-media-buying-outcomes-combining-1st-2nd-party-data/?utm_source=reddit&utm_medium=reddit&utm_campaign=1st_2nd_party_data&utm_content=blog_post)"
+Reselling through ad inventory on Ortb 2.5,1,ce5kn2,https://www.reddit.com/r/adtech/comments/ce5kn2/reselling_through_ad_inventory_on_ortb_25/,0,1563352476.0,"I am long-time admirer of the Adtech forum and have learned a ton from all the great contributors on here. I would appreciate any insight that can be passed on. If I am buying ad inventory through an SSP via ortb 2.5 to feed the advertisers on our dsp, can other DSP's access (buy) or aggregated niche inventory through a similar ortb call from our DSP? Just to clarify Pmp's and exchanges are not an option at the moment. Any thoughts if that is possible?"
+safari latest cookie policy blocking - negative effects?,1,bxdl1h,https://www.reddit.com/r/adtech/comments/bxdl1h/safari_latest_cookie_policy_blocking_negative/,1,1559832614.0,"Hey everyone, We are a small company doing SEM marketing for businesses. We track the ads clicks using cookies, and we fear the new cookie policy will hurt us. We have our own platform to log the clicks. The event arrives at our platform after the users click the ad, using the tracking URL. when that request reaches us, we set a cookie at the user's browser. Does anyone know if that counts as a third-party cookie? It is important to remember that at the same time the user is redirected to the target site.
+
+Thanks in advance!"
+Top 5 Big Data Challenges Every AdTech Startup May Meet and the Ways to Overcome Them,1,bueilq,https://www.reddit.com/r/adtech/comments/bueilq/top_5_big_data_challenges_every_adtech_startup/,2,1559164368.0,"In recent years, the advertising technology market has made a big leap. Digital marketing has evolved into data-driven marketing. Using big data, you can create effective campaigns, conduct communication with customers, and come to them precisely once the desire for a product or service breaks out.
+
+The advertising tools ecosystem along with the approaches and processes used with it form a technology called adtech. Therefore, big data projects have clearly become a usual thing in adtech, although it doesn’t make big data simple.
+
+Let’s try to highlight some adtech technical problems that a startup has to solve to gain success:
+
+* develop a product that can be easily scaled in line with the increasing workloads and data volumes that should be stored
+* integrate with third-party services to attract new users and segments
+* identify users for targeted advertising without violating the regulations
+* aggregate analytics in a timely manner, often in real time
+* ensure the safety of any personal user data that may be available to the system
+
+Under these points, we can see challenges that most likely each adtech startup will face in a way. If you have a feeling that you are ready to acknowledge and even conquer them hop on [here](https://blog.s-pro.io/top-5-big-data-challenges-every-adtech-startup-may-meet/) to get insights!
+
+In case you want to know the smooth way of innovative technologies adaptation to the business needs, check the [professional approach](https://s-pro.io/en/big-data)."
+"Ad Tech Pals, let's meet up in Berlin!",1,brodpm,https://www.reddit.com/r/adtech/comments/brodpm/ad_tech_pals_lets_meet_up_in_berlin/,1,1558558120.0,"Hi all!
+
+Anyone here planning to join DigiTech Day in Berlin, June 13? [https://digitech.splashthat.com/](https://digitech.splashthat.com/) 
+
+The main topic of the event is data management: challenges and opportunities, balancing between GDPR-compliance, audience targeting, and building profitable ad campaigns.
+
+&#x200B;
+
+Admixer C-suite team is coming :) 
+
+If you head to the event, too, or will just hang around Berlin those days, drop a line to one of us and let's schedule some time to have a coffee and talk! Here's who's coming from our team: [https://blog.admixer.net/admixer/attend-digitech-day-berlin-with-admixer/?utm\_source=reddit&utm\_medium=reddit&utm\_content=digitech%20day%20blog%20announce](https://blog.admixer.net/admixer/attend-digitech-day-berlin-with-admixer/?utm_source=reddit&utm_medium=reddit&utm_content=digitech%20day%20blog%20announce) 
+
+Will be glad to meet ad tech pals!"
+App Install Companies,1,brff6c,https://www.reddit.com/r/adtech/comments/brff6c/app_install_companies/,0,1558499198.0,"Looking into potential partners app install campaign. Can anyone recommend any companies who are doing unique things in this space?
+
+Thanks!"
+How's working in IAS post PE?,1,bqf4e3,https://www.reddit.com/r/adtech/comments/bqf4e3/hows_working_in_ias_post_pe/,1,1558288074.0,Would you work here?
+"Fighting adfraud, will App-ads.txt save the day?",1,bngiad,https://www.reddit.com/r/adtech/comments/bngiad/fighting_adfraud_will_appadstxt_save_the_day/,4,1557634728.0,"App-ads.txt will it save the day?
+https://www.linkedin.com/pulse/app-adstxt-save-day-zahoor-khan"
+What makes ad network model effective in 2019? Publisher's perspective,1,bg067l,https://www.reddit.com/r/adtech/comments/bg067l/what_makes_ad_network_model_effective_in_2019/,0,1555955103.0,"Hi all!
+
+Leveraging our 10+ years experience in managing one of the largest ad networks in CEE, and knowing all the pain points of its both sides as ad tech vendor, Admixer Technologies is sharing an overview of how ad networks model has been changed  the last decade and what a modern and effective model should look like today in 2019. Here you may find a read: [https://blognife.com/2019/04/22/re-thinking-ad-networks-model-in-the-programmatic-era/](https://blognife.com/2019/04/22/re-thinking-ad-networks-model-in-the-programmatic-era/)   
+Will appreciate your comments and questions, community!"
+Ad Exploit Activity Up by 428% since March: 70% of a site’s users are exposed to an 'at-risk-ad' every month,1,bc5mtn,https://www.reddit.com/user/DEVCON3PJS/comments/bc394p/ad_exploit_activity_up_by_428_since_march_70_of_a/,0,1555048012.0,
+Does VideoAmp have a media buying platform?,1,bc1e54,https://www.reddit.com/r/adtech/comments/bc1e54/does_videoamp_have_a_media_buying_platform/,1,1555026215.0,Does VideoAmp have their OWN buying platform is it is simply planning & measurement?
+Ad Collision,1,b65lue,https://www.reddit.com/r/adtech/comments/b65lue/ad_collision/,4,1553728855.0,What is your perspective on multiple ads running on the same page? What are some of the capabilities to control the number of ads on a page?
+Key ad tech takeaways from Mobile World Congress,1,b3aj2e,https://www.reddit.com/r/adtech/comments/b3aj2e/key_ad_tech_takeaways_from_mobile_world_congress/,0,1553107801.0,"Hi guys, just have posted brief ad tech takeaways from Mobile World Congress (held in Barcelona about a month ago). 
+
+A lot of hype around 5G, IoT, and emerging technologies. We've tried to figure out, how it all will impact  ad tech industry and the way brands (and all ad tech participants actually) should re-consider ad serving now. 
+
+Here's our 3 min read:
+
+[https://blog.admixer.net/admixer/mwc-barcelona-2019-wrap-admixer/?utm\_source=reddit&utm\_medium=blog%20post&utm\_campaign=blog%20post&utm\_content=mwc19](https://blog.admixer.net/admixer/mwc-barcelona-2019-wrap-admixer/?utm_source=reddit&utm_medium=blog%20post&utm_campaign=blog%20post&utm_content=mwc19) 
+
+You're welcome to share what you think of these trends. Thanks!"
+Reviveadsevermod Forum,1,azrgtw,https://www.forum.reviveadservermod.com/,0,1552326120.0,
+Forbes about HYGH: Is AdTech Moving Outdoors?,1,avr86w,https://www.forbes.com/sites/geraldfenech/2019/01/29/is-adtech-moving-outdoors/#502e220a1c55,0,1551389940.0,
+Safari ITP 2.0,1,auoglq,https://www.reddit.com/r/adtech/comments/auoglq/safari_itp_20/,1,1551148051.0,"Does DBM (or whatever they’re called) have a solution for ITP 2.0? If so, what is it?
+
+Do they have the ability to retarget impression recipients?"
+Has anyone used yurbi as a data platform? Better than Domo or tableau?,1,aqgv8p,https://www.reddit.com/r/adtech/comments/aqgv8p/has_anyone_used_yurbi_as_a_data_platform_better/,0,1550154753.0,
+SURVEY: Your attitude on DSP features (For AdTech and MarTech Professionals) Takes 10 mins!,1,anuose,https://www.reddit.com/r/adtech/comments/anuose/survey_your_attitude_on_dsp_features_for_adtech/,2,1549511395.0,"hey folks, i'm doing some research to better understand how AdTech/MarTech industry professionals feel about features in platforms. It's a short survey, if you can spare a few minutes to take it - that would be awesome. Thanks in advance :-)"
+A Guide To Digital Advertisement Technology,1,aj1c49,https://www.reddit.com/r/adtech/comments/aj1c49/a_guide_to_digital_advertisement_technology/,2,1548289197.0,"If you have ever heard about advertisement technology, I advise you to read this article about [ad tech](https://theappsolutions.com/blog/development/what-why-how-adtech/)"
+[Free Webinar]: How to drive super results to all your ad campaigns with only one DSP?,1,9xc0pv,https://www.reddit.com/r/adtech/comments/9xc0pv/free_webinar_how_to_drive_super_results_to_all/,0,1542323633.0,"Hi all!
+
+I invite you to the exclusive one-time webinar **""How to drive the most ROI to your ads with only one DSP"".** The webinar will be useful for all who runs multiple performance-based ad campaigns through demand-side platforms. 
+
+What's in webinar agenda?
+
+1. An intro to programmatic advertising (a pinch of important theory)
+2. A step-by-step ad campaign setup: drive maximum conversions with minimum expenses.
+3. Automated ad campaign optimization and how to make it work for you 24/7.
+
+**When?** Thursday, November 29 at 2:00 PM EEST (12 PM GMT). 
+
+P.S. All attendees will receive a **$ 50 BONUS** to be spent on traffic afterward.  
+
+You can find more details and the registration link [\>> here<<](https://market.epom.com/epom-market-dsp-webinar).
+
+Cheers!"
+A Marketer’s Glossary to Blockchain: Decoding the Mystery,1,970eso,https://martechseries.com/mts-insights/guest-authors/a-marketers-glossary-to-blockchain/,0,1534210923.0,
+"Adtech Weekly Roundup: Facebook's Ad Plans, Google's Consent Agreement, and more!",1,8zae34,https://headerbidding.co/adtech-weekly-roundup-16/,0,1531771920.0,
+"Weekly Roundup: IGTV, Youtube' New Ad tools, Ad Network by Publishers, and more!",1,8u77pk,https://headerbidding.co/adtech-weekly-roundup-13/,0,1530108327.0,
+Increase Your Programmatic CPMs,1,8p9nwr,https://headerbidding.co/increase-programmatic-cpms/,0,1528401079.0,
+Geotargeting bottom feeders threaten entire data ecosystem,1,8nj46l,https://martechtoday.com/geotargeting-bottom-feeders-threaten-entire-data-ecosystem-216339,0,1527807811.0,
+Google Launches Programmatic Audio Ads In DoubleClick Bid Manager | AdExchanger,1,8nj1xi,https://adexchanger.com/platforms/google-launches-programmatic-audio-ads-in-doubleclick-bid-manager/,1,1527807355.0,
+"Adtech Weekly Roundup - IAB Tech Lab's Ads.txt Aggregator, Facebook Watch Plans, Google's New Privacy Policy!",1,8jcddi,https://headerbidding.co/ads-txt-aggregator-google-privacy-policy/,0,1526334506.0,
+"Adtech Weekly Roundup - GDPR + Publishers, Facebook F8 Updates, Apple Vs Adtech!",1,8hm7vi,https://headerbidding.co/gdpr-publishers-adtech/,0,1525714079.0,
+Pubvendors.json – The Framework Update by IAB Tech Lab & IAB Europe.,1,8gyd4d,https://headerbidding.co/pubvendors-json/,0,1525460412.0,
+"Weekly Roundup – DoubleClick IDs: Soon to be Gone, GDPR might uplift the AdTech Mediators, and More!",1,8fyqs1,https://headerbidding.co/doubleclick-gdpr-adtech/,0,1525116484.0,
+Meet 'DaisyBit' from GDPR Consent Framework,1,8fdopr,https://headerbidding.co/what-is-daisybit/,0,1524880806.0,
+Consent Management Platforms (CMPs) - A New #AdTech Player!,1,8f2xpd,https://headerbidding.co/consent-management-platform-cmp/,0,1524780670.0,
+Consent Management Platforms (CMPs) - A New #AdTech Player!,1,8f2unp,https://headerbidding.co/consent-management-platform-cmp/,0,1524780005.0,
+IAB Tech Lab Acquires DigiTrust: What's the Catch?,1,8ejhw5,https://headerbidding.co/iab-tech-lab-acquires-digitrust/,0,1524595935.0,
+"Adtech Weekly Roundups - Facebook confronts the Next Big Issue, Twitter Video Shows attract advertisers, and more!",1,8e9t3a,https://headerbidding.co/facebook-google-twitter/,0,1524498977.0,
+"What is CONSENT Act? And, how it's going to impact Adtech?",1,8d4h1y,https://headerbidding.co/what-is-consent-act/,0,1524074405.0,
+"Adtech Weekly Roundups - Facebook Vs Snapchat, Moat's Viewability Experiment and more!",1,8cudu3,https://headerbidding.co/facebook-snapchat-publishers/,0,1523973865.0,
+Google Updated its 'Ad and Data Handling' Policies - Here's What you need to know!,1,8bpl91,https://headerbidding.co/google-gdpr-update/,0,1523563189.0,
+IAB Tech Lab Plans to Simplify Viewability Measurement with its OM SDK!,1,8bg26w,https://headerbidding.co/iab-om-sdk/,0,1523471772.0,
+Android Background - Video,1,84i969,https://www.reddit.com/r/adtech/comments/84i969/android_background_video/,2,1521101203.0,Anyone come across APPs running preroll ads in the background of an Android APP?
+Monetization opportunity for UK publishers,1,7z6oe3,https://martechseries.com/video/video-intelligence-launches-contextual-video-platform/,2,1519258351.0,
+Quick Q on Adtech Salary,1,7yu7um,https://www.reddit.com/r/adtech/comments/7yu7um/quick_q_on_adtech_salary/,8,1519141676.0,"Hey guys!
+
+I have an interview this week with an AdTech company from Germany (the salaries posted are for Berlin). 
+
+I was wondering what the USA (NYC but other markets welcomed) going rate was for a Junior Online Marketing Manager (PPC). 
+
+I'd be advising/training clients on how to use the proprietary software, researching keywords and market trends, and analyzing campaign performance + presenting or processing the results in presentations.
+
+I liken the job description to an AdOps Coordinator and such.
+
+Thanks!"
+"Read Online A Dictionary of Construction, Surveying, and Civil Engineering by Christopher Gorse",1,7m7cnj,https://www.reddit.com/r/adtech/comments/7m7cnj/read_online_a_dictionary_of_construction/,0,1514317355.0,"Read Online A Dictionary of Construction, Surveying, and Civil Engineering by Christopher Gorse PDF File Epub Download Mobi [click here](http://topbook.life/read.php?book=1766769)
+"
+Blockchain application in adtech: how to overcome scalability issue? Papyrus case.,1,7hxaq4,https://blog.papyrus.global/papyrus-will-because-know-how-to-cope-with-blockchain-scalability-issue-cd0f00f15f02,2,1512586467.0,
+Papyrus - digital ad ecosystem overview (Indonesian),1,7hpmvd,http://www.bitcoinico.web.id/2017/11/ico-dari-papyrus-periklanan-yang.html,0,1512509114.0,
+Advice for an online vintage shop seeking it's target audience?,1,7f4y1s,https://www.reddit.com/r/adtech/comments/7f4y1s/advice_for_an_online_vintage_shop_seeking_its/,1,1511526053.0,"Hey guys!
+
+I've been running my own online vintage shop for a little over a year now and have had such a great success rate at selling through ASOSMarketplace and Depop but unfortunately can't seem to generate the correct traffic for my website?
+
+I advertise with Facebook, Instagram, Pinterest, and am interested in Google AdWords but find all these advertising platforms very confusing in terms of defining an audience. 
+
+I'd love to get some insight on the correct way of finding an audience to get conversion before spending anymore money! Any advice?
+
+www.WayneWardrobe.com"
+simple ajv wrapper for openrtb request and response validation for nodejs,1,7c15fh,https://github.com/oiime/openrtb-schema-validator,0,1510350195.0,
+How do I find people who wants to advertise through my websites?,1,7bz8z6,https://www.reddit.com/r/adtech/comments/7bz8z6/how_do_i_find_people_who_wants_to_advertise/,0,1510321699.0,"Apologies for a rather vague title. I wasn't too sure how to word it. 
+
+Anyway, so here's my situation.
+
+I have a product. My product allows users to create content sites (similar to reddit perhaps?) My users want to earn money by advertising. They want my product to handle the advertising and are happy for me to take a cut.
+
+Now every website created is different and contains different types of contents.
+
+Is there an advertising platform that I can sign up and place ads on websites programmatically via API (perhaps give keywords to get relevant ads maybe) and then monitor the clicks and money earned through API as well, so I can report that back to my users to show how much their website earned each month?
+
+I've looked at a lot of ad platform out there (e.g. Rakuten, Chitika etc), but wasn't sure exactly where to look.
+
+Does such a thing exist? Can you please point me to the right direction?"
+What tools are used for Funnels and Tracking paid advertising,1,77t2jv,https://www.reddit.com/r/adtech/comments/77t2jv/what_tools_are_used_for_funnels_and_tracking_paid/,0,1508617520.0,"I would like to know if digital marketing agencies always maintain their own software for their funnel and tracking requirements or there are some generic online tools (subscription based or hosted solutions) which they use?
+"
+"Publishers, would you consider sharing your benchmarks / metrics publicly for advertisers on direct deals?",1,70q1ro,https://www.reddit.com/r/adtech/comments/70q1ro/publishers_would_you_consider_sharing_your/,0,1505709153.0,"I work for a publisher and I see that sharing our benchmarks to advertisers on private market deals is a lengthy and alternating task for our account execs. Publishers, wouuld you use a tool that automatically consolidates and publishes your benchmarks?"
+"Neat creative preview tool, will love some feedback from the ad-tech community as well",1,6zus50,https://redd.it/6yweeu,0,1505340743.0,
+Dynamic Creative Vendors,1,6x2bfy,https://www.reddit.com/r/adtech/comments/6x2bfy/dynamic_creative_vendors/,1,1504156678.0,"Wondering if anyone could lay down the dynamic creative landscape - what vendors do they recommend, are some vendors good at DCO (dynamic creative optimization) or is that pretty standard these days, and if anyone has experience with the user experience of different vendors' self-serve creative studios. Thanks!"
+A quick demo of some of the proximity/ibeacons campaigns delivered by Adtrex,1,6vnu13,https://www.youtube.com/watch?v=US5Jci5Ykhk,0,1503569514.0,
+A breakdown of my submission for Twitters Innovation Challenge #Promote,1,6v3uyj,http://www.jamiemaguire.net/index.php/2017/08/20/a-breakdown-of-my-submission-for-twitters-innovation-challenge-promote/,0,1503359918.0,
+"Even With Snap's 173MM Daily Active, These Upcoming Events Could Shrink the Stock",1,6t2yii,https://www.inc.com/anne-gherini/could-these-two-upcoming-events-crush-snaps-stock.html,2,1502503586.0,
+"Twitter, AI, Lead Generation and #Promote",1,6s0kc2,http://www.jamiemaguire.net/index.php/2017/08/06/twitter-ai-lead-generation-and-promote/,0,1502078480.0,
+A.I is playing a big role in many Adtech companies!,1,6q6y7y,https://adrizer.com/a-i-and-the-evolution-of-publishing/,1,1501306561.0,
+Access to adtech data APIs,1,6k81sv,https://www.reddit.com/r/adtech/comments/6k81sv/access_to_adtech_data_apis/,0,1498768651.0,"I'm working on an open source project for getting data out of common adtech APIs (AdWords, DFP, Facebook, Twitter, etc.) and into .csv and/or databases (Redshift, BigQuery, Azure DW, etc).
+
+I'm looking for people who can help me out, particularly with providing read-only access to their accounts for testing purposes.
+
+The end result will be 100% open source and you're free to use it if  you wish. 
+
+Your credentials will be encrypted and securely stored, and your data will never be shared/sold/etc and will be discarded immediately after ingestion.
+
+The project is backed by a Delaware C-Corp based in NYC and I'm happy to sign any and all NDAs and any ToS you see fit.
+
+If this sounds like something you might be interested in helping with, shoot me a DM or an email at stealthdatanyc@gmail.com and I'll be happy to tell you more about what we are up to."
+Best resources on restrictions on using PII (personally identifiable information) in adtech and other digital contexts?,1,6jpuxb,https://www.reddit.com/r/adtech/comments/6jpuxb/best_resources_on_restrictions_on_using_pii/,0,1498559853.0,"I'm interested in understanding more about the use (and avoidance of use) of PII.
+
+What do companies do to make sure individuals aren't identifiable from large datasets, whether in advertising or other digital contexts?
+
+What does the industry say about this and where could I read about it?
+
+What do people who disagree with, or criticize, industry practices say?"
+Three Reasons Why AdTech And MarTech Are Merging Now,1,6ik3yy,https://which-50.com/video-three-reasons-adtech-martech-merging-now/,0,1498055996.0,
+The next generation of adtech will move beyond ‘annoying ads’,1,6ie3ch,http://www.mumbrella.asia/2017/06/next-generation-adtech-will-move-beyond-annoying-ads/,2,1497994948.0,
+Serving video ads on phone devices - JWPlayer,1,6eipot,https://www.reddit.com/r/adtech/comments/6eipot/serving_video_ads_on_phone_devices_jwplayer/,3,1496300662.0,"Hi,
+We just added JWPlayer to our site and are working on serving ads (mid-rolls and pre-rolls). Currently we are using an AdX tag, and have set up a line item in DFP. It seems to be working fine for Desktop and Tablet but for some reason the ads are not serving through any Phones. Any ideas why this may be the case? Is there any specific setting that need to be done in order to set this up for phones? "
+JOB ALERT - Programmatic Account Strategist – Denver,1,5yibot,https://www.reddit.com/r/adtech/comments/5yibot/job_alert_programmatic_account_strategist_denver/,0,1489127911.0,"Do the words ""curious"", ""resourceful"", and ""analytical"" describe you? Bonus round if you'd also say ""weird"" (in a good way). Check out the Account Strategist role with Choozle and let us know if you have what it takes to ""teach a man to fish""!
+
+https://choozle.com/careers
+"
+RSVP LA Advertising Professionals,1,5t2vfm,https://www.eventbrite.com/e/la-advertising-professionals-tickets-31487512999,0,1486703668.0,
+"Harder, Better, Faster, Stronger",1,5r9bhc,http://botsgonewild.net/harder-better-faster-stronger/,0,1485910127.0,
+Top Trends UK Publishers Should Adapt In 2017,1,5ppcc3,http://whatsnewinpublishing.co.uk/2017/01/23/top-trends-publishers-should-adapt-in-2017/,0,1485213757.0,
+Strike Social - Anyone use them?,1,5p05ki,https://www.reddit.com/r/adtech/comments/5p05ki/strike_social_anyone_use_them/,0,1484896401.0,"Hey guys, 
+
+Has anyone used Strike Social before? Would be great to hear some thoughts on them and their technology they use. 
+
+Keen to know how they can drive their CPV costs so low. 
+
+cheers! "
+Ad Blocking In the Age of Free Content: Something's Gotta Give,1,58476l,http://blog.stackadapt.com/ad-blocking-future-free-content-trends,0,1476831221.0,
+"Major Brands Are Bringing Programmatic Advertising In-House, Should Ad Agencies Be Worried?",1,57gl4j,http://blog.stackadapt.com/brands-in-house-marketing-programmatic-advertising-technology-future-of-agencies,3,1476483701.0,
+Ad Industry takes conflicts of interest to new levels,1,57eq1l,http://www.wsj.com/articles/xaxis-buys-triad-retail-media-1476369349,0,1476449260.0,
+Pre-roll ads before completing transaction,1,554mln,https://www.reddit.com/r/adtech/comments/554mln/preroll_ads_before_completing_transaction/,1,1475214151.0,"I have a site where users can upload an image and do some processing of that image. It is relatively resource intensive on my server. 
+
+I am looking for some kind of ad pre-roll for users to complete before unlocking the content they want. Basically a form of micro payment.
+
+I am aware of SolveMedia but their RPM are terrible. I am thinking of something where the user has to watch a short 15 second ad or something before proceeding. 
+
+Is there anything like this available for publishers?"
+How do I get video ads for my startup network?,1,5139q8,https://www.reddit.com/r/adtech/comments/5139q8/how_do_i_get_video_ads_for_my_startup_network/,3,1473008791.0,"I'm creating an ad network that will focus exclusively on rewarded video for desktop web browsers. 
+
+I've read a lot about advertising and terminology in general, but Im still a bit confused at how do I go about finding video ad providers that I can use to fill my publishers inventory? 
+
+I've contacted several video ad networks, but they either restrict me to a specific domain or website, or they have steep traffic requirements before I can sign up. So being a startup it's very difficult to get this going.
+
+I have already setup my ad management network with Epom Ad Server, I just need a company that can provide me with the video ads.
+
+Could someone point me in the right direction of who I need to contact or what sort of provider should I be looking for?"
+AdBlocking: A never ending story?,1,4pui5t,http://ad-tech-group.com/adblocking-a-never-ending-story/,0,1466919160.0,
+facebook are about to take a slice of all display advertising,1,4m7qdc,http://www.wsj.com/articles/facebook-wants-to-help-sell-every-ad-on-the-web-1464321603,1,1464910482.0,
+Tips for viewability using HTML5/JS VPAID,1,4gu7k6,https://www.reddit.com/r/adtech/comments/4gu7k6/tips_for_viewability_using_html5js_vpaid/,1,1461882384.0,"Hello AdTech, I'm trying to figure out ways in which HTML5 and JavaScript can be used to determine viewability. I'm new to the industry and from the minimal exposure I've had so far it appears that using Flash ""pixels"" is still one of the best ways. Are there specific HTML5 tags or Javascript techniques that are commonly used in place of Flash? Specifically something that would work within an IFrame."
+Reducing Network Latency and Transit costs for Adtech,1,4eqq4e,http://blog.datapath.io/adtech-rtb-optimization-lower-network-latency-tansit-cost,0,1460662686.0,
+Overview of a Network Setup?,1,4bcy4q,https://www.reddit.com/r/adtech/comments/4bcy4q/overview_of_a_network_setup/,0,1458606110.0,Can someone give me a layman's overview of the setup process for a new network?  Just curious as to what a new provider needs to do from a technical standpoint to build inventory with publishers.
+"Facebook Fraud, be ware of buying Fans via Facebook",1,46ybhx,http://wordpressproduction.com/the-great-facebook-fan-scam-aka-fraud/,0,1456131518.0,
+2016 Predictions In Online Video,1,3zwpjl,http://tvrev.com/where-are-we-now-2017-edition/,0,1452219510.0,
+Pre-roll : JS (HTML5) VPAID Demand?,1,3zc802,https://www.reddit.com/r/adtech/comments/3zc802/preroll_js_html5_vpaid_demand/,1,1451894598.0,"With viewability being the best pre-roll metric, companies are starting to lean on partners like Moat (www.moat.com) to wrap VAST in a VPAID wrapper. It makes me wonder why the video player industry (besides Kaltura and JW Player) doesn't look to support JS-VPAID which will inherently track viewability metrics. Has anyone heard any media agencies looking for this? Do any pre-roll ad serving companies support this yet? Is there any inventory out there?"
+Help me find a Facebook Marketing Partner,1,3x4vqz,https://www.reddit.com/r/adtech/comments/3x4vqz/help_me_find_a_facebook_marketing_partner/,1,1450332862.0,"Hi all,
+
+Some of our partners are looking for a Facebook Marketing Partner to handle some of their online advertising as they look to switch from display and search to social. It's my understanding that these partners build technology stacks on top of Facebook's APIs.
+
+I'm looking for some recommendations that I can pass along to these guys. The Facebook Partner Website (https://facebookmarketingpartners.com/become-a-partner/?) has a list of partners, but I'm hoping for some recommendations. Any thoughts?"
+Admarketplace - what is your favorite place for your adds to generate income?,1,3vfpc0,https://www.reddit.com/r/adtech/comments/3vfpc0/admarketplace_what_is_your_favorite_place_for/,2,1449277822.0,"Hello, what sites, services do you use for your adds?
+I mean both to sell and to buy 
+
+Google Adsense is the most popular, I know, but I was banned with no reason several years ago, and I heard similar stories. 
+
+So what marketplace for your adds your would recommend?"
+"Update link (any channel) so it can detect and auto-open a retail mobile app or mobile social app (Facebook, Instagram, Pinterest)",1,3uw8mi,https://app.urlgeni.us/,0,1448942359.0,
+"NSDB announces v0.1 ""public alpha"" of Peephole.Online™ -- Enhanced Internet Browsing™ for Google Chrome Browser (for now). We're looking for feedback, ways to improve and investors.",1,3ubeji,https://nsdb.com/press_releases/2015-11-25_NSDB_steps_into_online_advertising_market_Launches_Peephole.Online_v0.1_public_alpha_for_Google_Chrome_Browser.nsdb,0,1448547828.0,
+"Don't worry, be bapi",1,3s9zxq,https://www.youtube.com/watch?v=YHXxcJDg3rE&feature=youtu.be,0,1447195487.0,
+"How much does it really cost to run video ads, including hosting, on DBM?",1,3oq1mg,https://www.reddit.com/r/adtech/comments/3oq1mg/how_much_does_it_really_cost_to_run_video_ads/,0,1444859560.0,I'm not a user of DBM but I've heard that they don't charge any video creative hosting fees. I imagine they're simply not just giving away this hosting and are likely taking their fee through another avenue. Can anyone provide any insight here?
+Learn all about the programmatic advertising ecosystem in less than 24 hours!,1,3o40ta,http://jouncemedia.com/little-black-book/,1,1444433682.0,
+What Makes Effective Overlay Ad?,1,3gkwy6,https://blog.brid.tv/what-makes-effective-overlay-ad/,1,1439321000.0,
+Debunking Programmatic Buying,1,3426v1,http://aforetheherd.com/?p=194,0,1430189404.0,
+Facebook's Atlas ad platform will track you around the internet,1,2htaxa,http://www.engadget.com/2014/09/29/facebook-atlas-launch/?a_dgi=aolshare_reddit,0,1412046318.0,
+Google Is Bringing More Brand-Friendly Ads to Mobile,1,2ht71t,http://adage.com/article/digital/google-bringing-brand-friendly-ads-mobile/295176/,0,1412044281.0,
+Super Bowl Campaign and Intelligent Fraud Detection,0,exstco,https://v.redd.it/9eln567m1ke41,1,1580697411.0,
+Hi all I was just wondering if you would be able to take a quick 3 minute survey to help my team generate insights into advertising technology. Thank you so much in advance,0,dl5ewi,https://forms.gle/x2DGaRwLsE9o7fcm9,0,1571714314.0,
+Admixer.Network has announced the launch of the oRTB demand,0,bgsz1g,https://www.reddit.com/r/adtech/comments/bgsz1g/admixernetwork_has_announced_the_launch_of_the/,0,1556130676.0,"Hi community!
+
+If anyone here is owing and managing an ad network or thinking of building one, take a look at this possibly interesting information.
+
+A team I'm working with develops a SaaS solution packed with everything needed for building an ad network. This week guys rolled out an update: oRTB demand (allowing to add external DSPs and therefore increase and extend monetization opportunities). 
+
+So far it's available for our White Label solution owners only. However, if anyone interested in building own network wants to know more, here's a short post about the release:  
+
+[https://blog.admixer.net/admixer/releases/admixer-network-releases-ortb-demand/?utm\_source=reddit&utm\_medium=blog%20post&utm\_campaign=blog%20post&utm\_term=admixer%20network&utm\_content=ortb%20demand%20release](https://blog.admixer.net/admixer/releases/admixer-network-releases-ortb-demand/?utm_source=reddit&utm_medium=blog%20post&utm_campaign=blog%20post&utm_term=admixer%20network&utm_content=ortb%20demand%20release)"
+Beeswax - fastest-growing ad-tech company in the world,0,98k6zu,https://www.reddit.com/r/adtech/comments/98k6zu/beeswax_fastestgrowing_adtech_company_in_the_world/,1,1534713710.0," what do you think about this company?
+
+[https://www.businessinsider.com/startup-beeswax-winning-as-marketers-squeeze-agencies-2018-8](https://www.businessinsider.com/startup-beeswax-winning-as-marketers-squeeze-agencies-2018-8)
+
+'We're the fastest-growing ad-tech company in the world': Startup Beeswax is riding the wave of brands taking ad buying in-house"
+Biggest CTV Buyers in the market today?,0,8if60j,https://www.reddit.com/r/adtech/comments/8if60j/biggest_ctv_buyers_in_the_market_today/,2,1525990256.0,Who do you consider to be the biggest buyers of CTV/OTT in the marketplace today?
+Useful ticks for debugging in-app ads.,0,8dmq7h,http://blog.speedfox.co.uk/articles/1524219174-android_webview_hackery/,1,1524251066.0,
+Decentralized applications and digital advertising: bringing two worlds together,0,7ifh5j,https://blog.papyrus.global/what-is-a-decentralized-application-c5f6e070e9fe,0,1512774041.0,
+The contextual video gold rush,0,7ge2is,http://www.thedrum.com/industryinsights/2017/11/28/the-contextual-video-gold-rush,0,1511998298.0,
+"The sweetest dream of anybody, involved in marketing: lower advertising costs with higher advertising performance.",0,7fvmy8,https://www.owox.com/blog/success-stories/santehnika-online/,0,1511822889.0,
+"Papyrus - decentralized digital advertising ecosystem. TGE Round 1 results, instructions and next steps",0,7f7aqb,https://blog.papyrus.global/prp-token-generation-completed-future-token-sales-update-25342a58da9f,0,1511556806.0,
+AppCoins and the future of mobile advertising using the blockchain,0,7ddu4e,https://medium.com/@appcoins/appcoins-protocol-mobile-advertising-50f3434d927f,8,1510881306.0,
+Tips for Becoming Facebook Ad Certified,0,7cq54e,https://www.rocketclicks.com/client-education/3-tips-passing-blueprint-facebook-certification-exam/,0,1510634840.0,
+I am smart in all things except online advertising. I have a question about selecting websites to reach.,0,7ak3s1,https://www.reddit.com/r/adtech/comments/7ak3s1/i_am_smart_in_all_things_except_online/,4,1509751681.0,"Hi all,
+
+https://www.mediapost.com/publications/article/309715/pg-ad-strategy-bounces-back-after-cutting-out-sit.htm
+
+Today P&G said they are going to double down on advertising after limiting the reach of their ad placements. Ok this makes sense, find sites that work and double down on then. 
+
+But how do they actually do this? Is this something they monitor in their, for example, Google Adwords and then use Google Display to pick and choose their sites? 
+
+I am just missing the piece on how they measured each site's success and then what service they used to select their list of sites to run on.
+
+I know Google Display allows you to select sites but can you get this granular?
+
+Thank you in advance for any guidance. I feel like this is a probably a super dumb question but once I know the answer, it will all make sense.
+
+Thank you!"
+Is there a thing or process for which digital marketing companies would love to have an hosted solution for?,0,77t5dx,https://www.reddit.com/r/adtech/comments/77t5dx/is_there_a_thing_or_process_for_which_digital/,0,1508618661.0,"Most of the online marketing has certain tracking or funnel building requirements and tools like Google Analytics are used widely. And for managing pixels there are campaign management platforms available online. 
+
+But is there a thing for which digital marketing companies have to build a tool / software in-house because of unavailability generic hosted solution and would pay a minimal subscription fee if it was made available?
+ "
+"New Performance Marketing Platforms? (tracking, analytics, etc.)",0,6slcx6,https://www.reddit.com/r/adtech/comments/6slcx6/new_performance_marketing_platforms_tracking/,1,1502313016.0,I'm looking for a new platform for performance marketing & tracking for my campaigns. I get a lot of clicks per month and I'm looking for the next best thing. I've tried Voluum & HasOffers and I'm not a fan of either UI. Any alternatives? New platforms on the market? Thanks!
+"Job Alert: AdTech Systems Analyst, The Weather Channel - Atlanta, GA",0,6odiu0,https://krb-sjobs.brassring.com/tgwebhost/jobdetails.aspx?jobid=112723&partnerid=26059&siteid=5016&type=mail,4,1500548107.0,
+‘The amount of the complexity is overwhelming’,0,6ik24g,https://digiday.com/marketing/luma-summit/,0,1498055243.0,
+Adbutler and Sparklit Apps Offline?,0,66pnbt,https://www.reddit.com/r/adtech/comments/66pnbt/adbutler_and_sparklit_apps_offline/,0,1492814920.0,"Several of sparklit's products are currently offline for us. Their sites have been confirmed down.
+
+Anyone have any further info?"
+PUTIN LIKES FAKE ADTECH,0,6576cm,https://www.linkedin.com/pulse/putin-likes-fake-adtech-jeff-martinez,0,1492135527.0,
+JOB ALERT - Programmatic Customer Service Coordinator – Denver,0,5yjm3r,https://www.reddit.com/r/adtech/comments/5yjm3r/job_alert_programmatic_customer_service/,0,1489142678.0,"Do you like Girl Scout cookies? Will you binge-watch the new House of Cards? Do you like the sound of a Saturday spent playing cornhole at the local brewery? If you answered yes to all these things, then you sound awesome but none of these interests apply to this job. Check out the Client Success Coordinator role at Choozle, and help us answer the question, ""Does it scale?"" when it comes to servicing our awesome clients!
+
+https://choozle.com/careers
+"
+Marketing Technology meets Lord of the Rings - Are you an Orc?,0,5x6f4h,http://chiefmartec.com/2017/03/hackies-conquering-middle-earth-marketing-technology/,0,1488522029.0,
+The Future of Publishing and Monetization from Global Industry-Leading Experts,0,5luhjq,http://blog.kiosked.com/en/the-future-of-publishing-and-monetization-from-global-industry-leading-experts,0,1483506209.0,
+Opt-In Email Marketing is still one of the most effective advertising strategies to convert you traffic into continuous paying customers.,0,5h4xis,http://www.bestaffiliate.club/2016/12/opt-in-form-email-marketing.html,0,1481200091.0,
+Digital Outdoor Advertising is supremely sustainable - a digital screen's lifespan of over 7 years easily undercuts traditional billboards and posters waste production.,0,azw3vh,https://i.redd.it/how4ktsiril21.png,0,1552353984.0,
+The future of adtech? r/HYGH,0,adgm7l,https://i.redd.it/wjx3gfftez821.jpg,2,1546887242.0,
+"Online advertising agency .Business to business marketing , Bms Marketing Services Ltd.",0,79j3ac,https://www.youtube.com/watch?v=y3ijPWJrBmI&app=desktop,0,1509339448.0,
+Blockchain to fight digital ad fraud,0,6vhghn,https://blog.papyrus.global/blockchain-to-fight-digital-ad-fraud-8f7e1d1ed7c8,3,1503503044.0,
+6 Top Ad Revenue Optimization Companies for Publishers,0,5jpo97,http://blog.imonomy.com/6-top-ad-revenue-optimization-companies-for-publishers/?utm_source=reddit,0,1482426754.0,
+Increase your advertising revenue with Koomper,0,4iljm1,https://www.reddit.com/r/adtech/comments/4iljm1/increase_your_advertising_revenue_with_koomper/,1,1462854507.0,"Koomper is a web application that allows you to present multiple types of content in the same space without changing code and without using multiple files. Our banner rotator system lets you créate stunning movies in minutes, each with a specific landing page assigned and individual performance metrics for each banner.	
+
+With a banner rotator you can manage the content that appears on a web page, even if you do not have access to the code. Once the programmer installs the embed code, you can manage your ads directly from Koomper without having to modify the code.
+
+You can read more at www.koomper.com
+
+"
+We Develop Customized Adtech Solutions for Businesses,0,79p50r,https://www.innovecs.com/industries/advertising-marketing/,0,1509412358.0,
+A Seismic Shift Is Underway in Ad Tech,0,6ie0ml,http://www.adageindia.in/digital/digitalnext/a-seismic-shift-is-underway-in-ad-tech/articleshow/59220358.cms,0,1497994104.0,
+Introducing Kiosked!,0,5m20d9,http://www.kiosked.com/,0,1483594776.0,
+I work at Kiosked!,0,5n5k3l,https://www.reddit.com/r/adtech/comments/5n5k3l/i_work_at_kiosked/,1,1484090215.0,"I am the Head of BD at Kiosked. We are a global publisher monetization platform. We generate new revenue opportunities for publishers with highly viewable, dynamic, and contextually relevant ad placements. 
+
+Check us out at : kiosked.com"
